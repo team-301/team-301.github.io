@@ -9,7 +9,7 @@ title: Home
 ## SPRING 2023
 
 ## Members
-**Salsabil Soliman**
-**Timothy**
-**Fatema Alshehhi**
-**Sivanee **
+***Salsabil Soliman**
+***Timothy**
+***Fatema Alshehhi**
+***Sivanee**
