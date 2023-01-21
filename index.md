@@ -19,4 +19,4 @@ title: Title
 
 ## Subpages
 
-[Team Organization](https://github.com/team-301/team-301.github.io/blob/main/team-organization/index.md)
+[Team Organization](https://github.com/team-301/team-301.github.io/blob/main/team-organization/index.html)
