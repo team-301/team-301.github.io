@@ -13,8 +13,6 @@ title: Title
 * **Fatema Alshehhi**
 * **Sivanee**
 
-## January 21st, 2023 
+## 01/23/2023
 
-## Arizona State University
-## EGR 314
-## Professor Travis Kelley
+## Arizona State University, EGR 314, Professor Travis Kelley
