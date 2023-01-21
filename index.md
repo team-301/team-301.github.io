@@ -2,6 +2,7 @@
 title: Title
 ---
 
+<p align="center">
 # Home
 
 ## Project Name: _SolarXCL_
@@ -18,3 +19,4 @@ title: Title
 ## Arizona State University
 ## EGR 314
 ## Professor Travis Kelley
+</p>
