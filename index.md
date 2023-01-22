@@ -1,9 +1,7 @@
 ---
 title: Title
 ---
-<p align="center">
 # Home
-</p>
 ## Project Name: _SolarXCL_
 ## Team 301
 
