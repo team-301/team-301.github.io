@@ -1,7 +1,7 @@
 ---
 title: Title
 ---
-                                                                          # Home
+                                                                           Home
 ## Project Name: _SolarXCL_
 ## Team 301
 
