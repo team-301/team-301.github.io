@@ -2,9 +2,8 @@
 title: Title
 ---
 <p align="center">
-
 # Home
-
+</p>
 ## Project Name: _SolarXCL_
 ## Team 301
 
@@ -21,5 +20,3 @@ title: Title
 ## Subpages
 
 [Team Organization](https://github.com/team-301/team-301.github.io/blob/main/team-organization/)
-
-</p>
