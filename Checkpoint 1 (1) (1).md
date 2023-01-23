@@ -18,7 +18,7 @@ Sivanee Naghichetty
 
 **1/20/2023**
 
-**[1.0 Team Organization]
+**1.0 Team Organization
 
 > [1.1 Charter] 
 > 
