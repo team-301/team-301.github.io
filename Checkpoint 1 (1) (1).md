@@ -149,7 +149,7 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 
 > **<span class="underline">Fig 1. Robot
 > vacuum</span>**![]
-> <p align="center">
+<p align="center">
     <img width="200" src="[http://material-bread.org/logo-shadow.svg" alt="Material Bread logo](https://github.com/team-301/team-301.github.io/blob/main/images/image20.png)">
 </p>
 
