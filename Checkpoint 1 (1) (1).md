@@ -1149,7 +1149,7 @@ the concepts/ideas sticky notes.
 
 <img src="images/image4.png" width="50%"><br>  
   <img src="images/image9.png" width="50%"><br>
-  <img src="images/image9.png" width="50%"><br>
+  <img src="images/photo.png" width="50%"><br>
   
 
 Figure 7 - Design Ideation
@@ -1173,11 +1173,19 @@ different colors:
 | Yellow | Farmers Help     |
 | Blue   | Common Features  |
 
-![](media/image6.png)
+<figure class="image">  
 
-![](media/image11.png)![](media/image17.png)
+<div style="text-align: center">  
 
-> **<span class="underline">Fig 8. Grouped Ideas</span>**
+<img src="images/image12.png" width="50%"><br>
+  <img src="images/image11.png" width="50%"><br>
+  <img src="images/image3.png" width="50%"><br>
+
+Figure 8 - Grouped Ideas 
+
+</div>
+
+</figure>
 
   - > **Ranking**
 
@@ -1185,10 +1193,19 @@ Then, we moved every group of ideas to their own slide and ranked them
 according to the importance level and requirements for the project with
 number one being the most important.
 
-![](media/image3.png)![](media/image7.png)
+<figure class="image">  
 
-> **<span class="underline">Fig 9. Ranked
-> Ideas</span>**![](media/image21.png)
+<div style="text-align: center">  
+
+<img src="images/image5.png" width="50%"><br>
+  <img src="images/image10.png" width="50%"><br>
+  <img src="images/image21.png" width="50%"><br>
+
+Figure 9 - Ranked Ideas  
+
+</div>
+
+</figure>
 
 ## **3.3 Product Concept Sketches** 
 
