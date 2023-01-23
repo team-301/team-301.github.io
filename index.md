@@ -871,9 +871,7 @@ Switch</span>**
     > has a good lifetime and has good spare parts and also has an easy
     > set up process.
 
-## 
 
-## 
 
 ## **Jamboard Progress and Steps**
 
@@ -914,7 +912,7 @@ Figure 7 - Grouped user needs
 
 
 
-## 
+
 
 ## **User Needs and Benchmarking Assessment**
 
