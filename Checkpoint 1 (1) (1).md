@@ -477,7 +477,7 @@ Robot</span>](https://www.amazon.com/Cleaner-Sophinique-Cleaning-Intelligent-Aut
 
 <div style="text-align: center">  
 
-<img src="images/image8.png" width="50%"><br>  
+<img src="images/image17.jpg" width="50%"><br>  
 
 Figure 3 - Figure title  
 
