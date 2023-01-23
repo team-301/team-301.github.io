@@ -153,7 +153,7 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 
 <img src="images/image20.png" width="50%"><br>  
 
-Figure 1 - Figure title  
+Figure 1 - Robot Vacuum  
 
 </div>
 
@@ -319,7 +319,7 @@ Robot</span>](https://www.amazon.com/HOBOT-2S-Cleaning-Automatic-Ultrasonic-Smar
 
 <img src="images/image1.png" width="50%"><br>  
 
-Figure 2 - Figure title  
+Figure 2 - Cleaning Robot  
 
 </div>
 
@@ -479,7 +479,7 @@ Robot</span>](https://www.amazon.com/Cleaner-Sophinique-Cleaning-Intelligent-Aut
 
 <img src="images/image17.jpg" width="50%"><br>  
 
-Figure 3 - Figure title  
+Figure 3 - Sophinique Robot  
 
 </div>
 
@@ -615,7 +615,7 @@ Station</span>](https://www.amazon.com/dp/B09N9HBPW6/ref=sspa_dk_detail_2?psc=1&
 
 <img src="images/image18.png" width="50%"><br>  
 
-Figure 4 - Figure title  
+Figure 4 - Weather Station  
 
 </div>
 
@@ -743,7 +743,7 @@ Switch</span>](https://www.amazon.com/Generation-Humidity-Ortis-Automated-Detect
 
 <img src="images/image16.png" width="50%"><br>  
 
-Figure 5 - Figure title  
+Figure 5 - Humidity Sensor Switch  
 
 </div>
 
