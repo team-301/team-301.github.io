@@ -18,13 +18,13 @@ Sivanee Naghichetty
 
 **1/20/2023**
 
-**1.0 Team Organization
+**[1.0 Team Organization]**
 
 > [1.1 Charter] 
 > 
 > [1.2 Product Mission Statement]
 
-**[2.0 User Needs, Benchmarking and Requirements]
+**[2.0 User Needs, Benchmarking and Requirements]**
 
 > [2.1 Voice Of Customers]
 > 
@@ -36,7 +36,7 @@ Sivanee Naghichetty
 > 
 > [Product requirement Assessment]
 
-**[3.0 Design Ideation]
+**[3.0 Design Ideation]**
 
 > [3.1 Background and Steps]
 > 
@@ -46,7 +46,7 @@ Sivanee Naghichetty
 > 
 > [Design Ideation Assessment]
 
-**[4.0 Appendix]
+**[4.0 Appendix]**
 
 > [Communication Channels]
 > 
