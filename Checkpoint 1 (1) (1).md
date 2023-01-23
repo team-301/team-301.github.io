@@ -29,7 +29,6 @@
 <br />
 <br />
 <br />
-<br />
 **[1.0 Team Organization]**
 
 > [1.1 Charter] 
