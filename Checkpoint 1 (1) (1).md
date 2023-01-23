@@ -1,24 +1,24 @@
 <h1 align="center">Environmental Sensing Invention</h1> 
 
-<h2 align="center"> Checkpoint 1</h2> 
+<h4 align="center"> Checkpoint 1</h4> 
 
-<h2 align="center">Team 301</h2> 
+<h4 align="center">Team 301</h4> 
 
-<h3 align="center">Timothy Drafz</h3> 
+<h4 align="center">Timothy Drafz</h4> 
 
-<h3 align="center">Salsabil Soliman</h3>
+<h4 align="center">Salsabil Soliman</h4>
 
-<h3 align="center">Fatema Alshehhi</h3>
+<h4 align="center">Fatema Alshehhi</h4>
 
-<h3 align="center">Sivanee Naghichetty</h3>
+<h4 align="center">Sivanee Naghichetty</h4>
 
-<h2 align="center">Arizona State University</h2>
+<h4 align="center">Arizona State University</h4>
 
-<h2 align="center">EGR 314</h2>
+<h4 align="center">EGR 314</h4>
 
-<h3 align="center">Prof. Travis Kelley</h3>
+<h4 align="center">Prof. Travis Kelley</h4>
 
-<h3 align="center">1/20/2023</h3>
+<h4 align="center">1/20/2023</h4>
 
 **[1.0 Team Organization]**
 
