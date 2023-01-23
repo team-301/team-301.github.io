@@ -26,7 +26,7 @@
 <br />
 <br />
 **Presentation Link:**
-[<span class="underline">Link</span>](https://youtu.be/ZJIEgCf_MdA)
+<span class="underline">[Link](https://youtu.be/ZJIEgCf_MdA)</span>
 <br />
 <br />
 <br />
