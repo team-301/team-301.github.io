@@ -1,4 +1,4 @@
-# **Inviromental Sensing Envintion**
+# **Enviromental Sensing Invintion**
 
 Checkpoint 1
 
