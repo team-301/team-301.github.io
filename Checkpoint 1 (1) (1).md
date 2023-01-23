@@ -148,7 +148,7 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 [<span class="underline">Link</span>](https://www.google.com/search?q=cleaning+robot&rlz=1C5GCEM_enEG915EG915&oq=cleaning+robot&aqs=chrome.0.69i59j0i512l4j46i512j0i512l4.3283j0j7&sourceid=chrome&ie=UTF-8)
 
 > **<span class="underline">Fig 1. Robot
-> vacuum</span>**![](media/image22.png)
+> vacuum</span>**![]([media/image22.png](https://github.com/team-301/team-301.github.io/blob/main/images/image20.png))
 
   - > Price: $159.99
 
