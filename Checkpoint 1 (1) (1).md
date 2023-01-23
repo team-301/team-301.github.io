@@ -313,8 +313,17 @@ Robot</span>](https://www.amazon.com/HOBOT-2S-Cleaning-Automatic-Ultrasonic-Smar
 **Search Results Link:**
 [<span class="underline">Link</span>](https://www.google.com/search?q=Cleaning+Robot+Solar&rlz=1C5GCEM_enEG915EG915&oq=Cleaning+Robot+Solar&aqs=chrome..69i57j0i512j0i22i30j0i15i22i30j0i22i30j69i61l2j69i60.427j0j7&sourceid=chrome&ie=UTF-8#ip=1)
 
-> **<span class="underline">Fig 2. Cleaning
-> Robot</span>**![](media/image19.png)
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images/image19.png" width="50%"><br>  
+
+Figure 2 - Figure title  
+
+</div>
+
+</figure>
 
   - > Price: $ 499
 
@@ -464,8 +473,17 @@ Robot</span>](https://www.amazon.com/Cleaner-Sophinique-Cleaning-Intelligent-Aut
 **Search Results Link:**
 [<span class="underline">Link</span>](https://www.google.com/search?q=window+cleaning+robot&sxsrf=AJOqlzXCM8vtC3rUD0icvI2HE75N2jb4ng%3A1674015488091&ei=AHPHY9KjBfyIkPIP27Cj6AY&ved=0ahUKEwjSo5DUodD8AhV8BEQIHVvYCG0Q4dUDCBA&uact=5&oq=window+cleaning+robot&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCAAQsQMQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyCggAEIAEEIcCEBQyBQgAEIAEOgQIIxAnOgUIABCRAjoLCAAQgAQQsQMQgwE6DgguEIAEELEDEMcBENEDOhEILhCABBCxAxCDARDHARDRAzoLCC4QgAQQsQMQgwE6BAgAEEM6BwgAEMkDEEM6CggAELEDEIMBEEM6CggAELEDEMkDEEM6CwguEIAEEMcBEK8BOgsIABCABBCxAxDJAzoICAAQgAQQsQNKBAhBGABKBAhGGABQAFj9I2D-JWgAcAF4AIABdIgB1AuSAQQxOS4ymAEAoAEBwAEB&sclient=gws-wiz-serp)
 
-> **<span class="underline">Fig 3. Sophinique Robot</span>**
-> ![](media/image8.jpg)
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images/image8.png" width="50%"><br>  
+
+Figure 3 - Figure title  
+
+</div>
+
+</figure>
 
   - > Price: $199.99
 
