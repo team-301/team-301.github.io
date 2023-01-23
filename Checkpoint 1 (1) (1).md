@@ -18,53 +18,52 @@ Sivanee Naghichetty
 
 **1/20/2023**
 
-**[1.0 Team Organization](#wqi0d0ynjzd4) 2**
+**[1.0 Team Organization]
 
-> [1.1 Charter](#charter) 2
+> [1.1 Charter] 
 > 
-> [1.2 Product Mission Statement](#product-mission-statement) 2
+> [1.2 Product Mission Statement]
 
-**[2.0 User Needs, Benchmarking and Requirements](#el6ib5z2bmzj) 3**
+**[2.0 User Needs, Benchmarking and Requirements]
 
-> [2.1 Voice Of Customers](#voice-of-customers) 3
+> [2.1 Voice Of Customers]
 > 
-> [Jamboard Progress and Steps](#section) 21
+> [Jamboard Progress and Steps]
 > 
-> [User Needs and Benchmarking Assessment](#_bae27snf7vjm) 23
+> [User Needs and Benchmarking Assessment]
 > 
-> [2.2 Product Requirements](#product-requirements) 24
+> [2.2 Product Requirements]
 > 
-> [Product requirement Assessment](#product-requirement-assessment) 27
+> [Product requirement Assessment]
 
-**[3.0 Design Ideation](#jrd8hrqiu4jt) 27**
+**[3.0 Design Ideation]
 
-> [3.1 Background and Steps](#background-and-steps) 27
+> [3.1 Background and Steps]
 > 
-> [3.2 Brainstorming Steps and Ideas](#brainstorming-steps-and-ideas) 28
+> [3.2 Brainstorming Steps and Ideas]
 > 
-> [3.3 Product Concept Sketches](#product-concept-sketches) 33
+> [3.3 Product Concept Sketches]
 > 
-> [Design Ideation Assessment](#_wvk6o6nk6ie4) 35
+> [Design Ideation Assessment]
 
-**[4.0 Appendix](#xfzagoh9kz4b) 36**
+**[4.0 Appendix]
 
-> [Communication Channels](#table-12.-communication-channels) 36
+> [Communication Channels]
 > 
-> [Communication Procedures](#communication-procedures) 36
+> [Communication Procedures]
 > 
-> [Meeting Schedule](#meeting-schedule) 36
+> [Meeting Schedule]
 > 
-> [Team Coordination](#team-coordination) 36
+> [Team Coordination]
 > 
-> [Roles and Responsibilities](#table-13.roles-and-responsibilities) 37
+> [Roles and Responsibilities]
 > 
 > [How will you assign technical responsibilities to the team
-> members?](#how-will-you-assign-technical-responsibilities-to-the-team-members)
-> 37
+> members?]
 > 
-> [User needs list](#user-needs-list) 37
+> [User needs list]
 > 
-> [Our Team Milestones](#our-team-milestones) 40
+> [Our Team Milestones]
 
 # **1.0 Team Organization** 
 
