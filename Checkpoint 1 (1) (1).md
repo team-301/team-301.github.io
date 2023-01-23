@@ -1,4 +1,3 @@
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <h1 align="center">Environmental Sensing Invention</h1> 
 <br />
 <br />
@@ -610,9 +609,17 @@ Station</span>](https://www.amazon.com/dp/B09N9HBPW6/ref=sspa_dk_detail_2?psc=1&
 **Search Results Link:**
 <span class="underline">[Link](https://www.google.com/search?q=Weather+Station+Indoor+Outdoor&sxsrf=AJOqlzVU021kAruAcsSpngwYfEy_mi9K5A%3A1674028547341&ei=A6bHY5vIFM-fkPIPwMaR2Ag&ved=0ahUKEwjb1aGn0tD8AhXPD0QIHUBjBIsQ4dUDCBA&uact=5&oq=Weather+Station+Indoor+Outdoor&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQFhAeMgkIABAWEB4Q8QQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIIxDqAhAnOg0IABCPARDqAhC0AhgBSgQIQRgASgQIRhgBUABYpgVg_wloAXABeACAAU-IAU-SAQExmAEAoAEBoAECsAEUwAEB2gEGCAEQARgK&sclient=gws-wiz-serp)</span>
 
-![](media/image18.png)
+<figure class="image">  
 
-> **<span class="underline">Fig 4. Weather Station</span>**
+<div style="text-align: center">  
+
+<img src="images/image18.png" width="50%"><br>  
+
+Figure 4 - Figure title  
+
+</div>
+
+</figure>
 
   - > Price: 42.12$
 
