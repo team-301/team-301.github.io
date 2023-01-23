@@ -317,7 +317,7 @@ Robot</span>](https://www.amazon.com/HOBOT-2S-Cleaning-Automatic-Ultrasonic-Smar
 
 <div style="text-align: center">  
 
-<img src="images/image19.png" width="50%"><br>  
+<img src="[images/image1.png)" width="50%"><br>  
 
 Figure 2 - Figure title  
 
