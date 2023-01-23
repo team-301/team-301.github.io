@@ -153,7 +153,7 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 
 <img src="images/image20.png" width="50%"><br>  
 
-Figure 1 - Figure title  
+Figure 1 - Robot Vacuum  
 
 </div>
 
