@@ -319,7 +319,7 @@ Robot</span>](https://www.amazon.com/HOBOT-2S-Cleaning-Automatic-Ultrasonic-Smar
 
 <img src="images/image1.png" width="50%"><br>  
 
-Figure 2 - Figure title  
+Figure 2 - Cleaning Robot  
 
 </div>
 
