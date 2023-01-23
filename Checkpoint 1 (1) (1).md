@@ -743,7 +743,7 @@ Switch</span>](https://www.amazon.com/Generation-Humidity-Ortis-Automated-Detect
 
 <img src="images/image16.png" width="50%"><br>  
 
-Figure 5 - Figure title  
+Figure 5 - Humidity Sensor Switch  
 
 </div>
 
