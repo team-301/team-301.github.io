@@ -737,9 +737,17 @@ Switch</span>](https://www.amazon.com/Generation-Humidity-Ortis-Automated-Detect
 **Search Results Link:**
 [<span class="underline">Link</span>](https://www.google.com/search?q=humidity+and+temperature+sensor&sxsrf=AJOqlzVxMTuhstgleKTEE2QJn1XfMm0M4g%3A1674028557466&ei=DabHY_2SHMDpkPIPwoqyiA4&oq=humi&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIABCRAjIFCAAQkQIyBAgAEEMyBAgAEEMyBAgAEEMyBwgAELEDEEMyBwgAELEDEEMyBQgAEIAEMgQIABBDMgoIABCABBCHAhAUOgcIIxDqAhAnOg0IABCPARDqAhC0AhgBOg0ILhCPARDqAhC0AhgBOgQIIxAnOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6CwguEIAEEMcBENEDSgQIQRgASgQIRhgBUL8DWM8RYLkjaAFwAXgAgAGFAYgBkgOSAQMyLjKYAQCgAQGwARTAAQHaAQYIARABGAo&sclient=gws-wiz-serp)
 
-![](media/image5.png)
+<figure class="image">  
 
-> **<span class="underline">Fig 5. Humidity Sensor Switch</span>**
+<div style="text-align: center">  
+
+<img src="images/image16.png" width="50%"><br>  
+
+Figure 5 - Figure title  
+
+</div>
+
+</figure>
 
   - > Price: 26$
 
