@@ -615,7 +615,7 @@ Station</span>](https://www.amazon.com/dp/B09N9HBPW6/ref=sspa_dk_detail_2?psc=1&
 
 <img src="images/image18.png" width="50%"><br>  
 
-Figure 4 - Figure title  
+Figure 4 - Weather Station   
 
 </div>
 
