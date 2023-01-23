@@ -151,7 +151,7 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 
 <div style="text-align: center">  
 
-<img src="https://github.com/team-301/team-301.github.io/blob/main/images/image20.png" width="50%"><br>  
+<img src="images/image20.png" width="50%"><br>  
 
 Figure 1 - Figure title  
 
