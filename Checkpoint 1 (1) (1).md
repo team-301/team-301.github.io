@@ -30,7 +30,6 @@
 <br />
 <br />
 <br />
-
 **[1.0 Team Organization]**
 
 > [1.1 Charter] 
@@ -154,7 +153,7 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 
 <img src="images/image20.png" width="50%"><br>  
 
-Figure 1 - Robot Vacuum  
+Figure 1 - Figure title  
 
 </div>
 
@@ -320,7 +319,7 @@ Robot</span>](https://www.amazon.com/HOBOT-2S-Cleaning-Automatic-Ultrasonic-Smar
 
 <img src="images/image1.png" width="50%"><br>  
 
-Figure 2 - Cleaning Robot  
+Figure 2 - Figure title  
 
 </div>
 
@@ -480,7 +479,7 @@ Robot</span>](https://www.amazon.com/Cleaner-Sophinique-Cleaning-Intelligent-Aut
 
 <img src="images/image17.jpg" width="50%"><br>  
 
-Figure 3 - Sophinique Robot  
+Figure 3 - Figure title  
 
 </div>
 
@@ -616,7 +615,7 @@ Station</span>](https://www.amazon.com/dp/B09N9HBPW6/ref=sspa_dk_detail_2?psc=1&
 
 <img src="images/image18.png" width="50%"><br>  
 
-Figure 4 - Weather Station  
+Figure 4 - Figure title  
 
 </div>
 
@@ -744,7 +743,7 @@ Switch</span>](https://www.amazon.com/Generation-Humidity-Ortis-Automated-Detect
 
 <img src="images/image16.png" width="50%"><br>  
 
-Figure 5 - Humidity Sensor Switch  
+Figure 5 - Figure title  
 
 </div>
 
@@ -897,13 +896,22 @@ Figure 6 - User Needs
 > It was categorized into two groups and ranked based on color and
 > number.
 
-![](media/image13.png)
+<figure class="image">  
 
-![](media/image20.png)
+<div style="text-align: center">  
 
-![](media/image1.png)
+<img src="images/image6.png" width="50%"><br> 
+  <img src="images/image14.png" width="50%"><br> 
+  <img src="images/image2.png" width="50%"><br> 
 
-> **<span class="underline">Fig 7. Grouped user needs</span>**
+Figure 7 - Grouped user needs
+ 
+
+</div>
+
+</figure>
+
+
 
 ## 
 
@@ -1135,13 +1143,22 @@ the required features that we generated from the user needs list. We
 started with three different empty boards and started to fill them with
 the concepts/ideas sticky notes.
 
-![](media/image2.png)
+<figure class="image">  
 
-![](media/image12.png)
+<div style="text-align: center">  
 
-![](media/image12.png)
+<img src="images/image4.png" width="50%"><br>  
+  <img src="images/image9.png" width="50%"><br>
+  <img src="images/image9.png" width="50%"><br>
+  
 
-> **<span class="underline">Fig 7. Design Ideation</span>**
+Figure 7 - Design Ideation
+
+</div>
+
+</figure>
+
+
 
   - > **Grouping**
 
