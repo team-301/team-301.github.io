@@ -149,9 +149,17 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 
 > **<span class="underline">Fig 1. Robot
 > vacuum</span>**![]
-<p align="center">
-    <img width="200" src="[http://material-bread.org/logo-shadow.svg" alt="Material Bread logo](https://github.com/team-301/team-301.github.io/blob/main/images/image20.png)">
-</p>
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="https://github.com/team-301/team-301.github.io/blob/main/images/image20.png" width="50%"><br>  
+
+Figure 1 - Figure title  
+
+</div>
+
+</figure>
 
   - > Price: $159.99
 
