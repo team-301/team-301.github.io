@@ -1218,9 +1218,17 @@ humidity or dust it sends signals to the washer system, and the whole
 system collaborates to get rid of the extra water and dust. This design
 is effective and full of different features.
 
-![](media/image9.jpg)
+<figure class="image">  
 
-> **<span class="underline">Fig 10. First Product Concept</span>**
+<div style="text-align: center">  
+
+<img src="images/image19.jpg" width="50%"><br>  
+
+Figure 10 - First Product Concept   
+
+</div>
+
+</figure>
 
 **Design Concept \#2**
 
@@ -1228,10 +1236,18 @@ The idea of this concept is a heat emitting robot that moves on the
 solar panels after a snow storm to melt the snow from the roof to. When
 the robot reads the temperature and wind speed that indicate the end of
 the storm for it to start to warm up and melt the snow. It also has a
-charging station that is powered by solar panels. ![](media/image16.jpg)
+charging station that is powered by solar panels. 
+<figure class="image">  
 
-> **<span class="underline">Fig 11. Second Product Concept</span>**
+<div style="text-align: center">  
 
+<img src="images/image8.jpg" width="50%"><br>  
+
+Figure 10 - Second Product Concept   
+
+</div>
+
+</figure>
 **Design Concept \#3**
 
 A nylon brush attached to a motor and fixture to sweep across a solar
@@ -1239,9 +1255,18 @@ panel. The controller is located underneath the panel and works in
 tandem with a humidity sensor and wind speed sensor. This lets the
 controller decide a good time to clean based on whether rain is likely
 or high winds have blown more dust and debris onto the
-panel.![](media/image4.jpg)
+panel.
+<figure class="image">  
 
-> **<span class="underline">Fig 12. Third Product Concept</span>**
+<div style="text-align: center">  
+
+<img src="images/image15.jpg" width="50%"><br>  
+
+Figure 12 - Third Product Concept   
+
+</div>
+
+</figure>
 
 **Design Ideation Assessment**
 
