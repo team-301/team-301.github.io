@@ -30,6 +30,7 @@
 <br />
 <br />
 <br />
+
 **[1.0 Team Organization]**
 
 > [1.1 Charter] 
@@ -479,7 +480,7 @@ Robot</span>](https://www.amazon.com/Cleaner-Sophinique-Cleaning-Intelligent-Aut
 
 <img src="images/image17.jpg" width="50%"><br>  
 
-Figure 3 - Figure title  
+Figure 3 - Sophinique Robot   
 
 </div>
 
@@ -1248,6 +1249,7 @@ Figure 10 - Second Product Concept
 </div>
 
 </figure>
+
 **Design Concept \#3**
 
 A nylon brush attached to a motor and fixture to sweep across a solar
