@@ -877,10 +877,19 @@ Switch</span>**
 ## **Jamboard Progress and Steps**
 
 Here you can see the 100 ideas gathered.
+<figure class="image">  
 
-![](media/image15.png)![](media/image14.png)
+<div style="text-align: center">  
 
-> **<span class="underline">Fig 6. User Needs</span>**
+<img src="images/image13.png" width="50%"><br>
+  <img src="images/image7.png" width="50%"><br> 
+
+Figure 6 - User Needs
+ 
+
+</div>
+
+</figure>
 
   - > **Grouping and Ranking**
 
