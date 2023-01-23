@@ -1579,3 +1579,10 @@ Design freeze: 3/24/2023
 
 Planned release: 4/28/2023
 
+---
+Checkpoint 1 Presentation
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJIEgCf_MdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
+[**<span class="underline">Presentation youtube
+Link</span>**](https://youtu.be/ZJIEgCf_MdA)
