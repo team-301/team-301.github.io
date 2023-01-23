@@ -147,8 +147,6 @@ Vacuum</span>](https://www.amazon.com/Thamtu-G10-Super-Thin-Self-Charging-Medium
 **Search Result Link:**
 [<span class="underline">Link</span>](https://www.google.com/search?q=cleaning+robot&rlz=1C5GCEM_enEG915EG915&oq=cleaning+robot&aqs=chrome.0.69i59j0i512l4j46i512j0i512l4.3283j0j7&sourceid=chrome&ie=UTF-8)
 
-> **<span class="underline">Fig 1. Robot
-> vacuum</span>**![]
 <figure class="image">  
 
 <div style="text-align: center">  
