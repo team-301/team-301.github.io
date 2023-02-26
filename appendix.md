@@ -19,7 +19,7 @@
 ## **Meeting Schedule**
 
 Our team availability can be found through this
-[<u>link</u>](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit).
+[link](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit).
 Initially, we are planning to meet Fridays from 3:00 PM until 5:00 PM.
 However, our team will try to discuss and work all the main agenda
 through the class time. Additionally, we will hold zoom/Discord meetings
@@ -29,8 +29,7 @@ on weekdays to discuss any updates and plan in-person meetings.
 
 -   We are going to remind each other by the meetings through discord.
 
--   The meeting time is based on the [<u>schedule of
-    > availability</u>](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit)
+-   The meeting time is based on the [schedule of availabilit](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit)
     > and discussions at least a week before.
 
 -   Our preferred meeting methode is online through discord/zoom if no
