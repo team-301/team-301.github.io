@@ -1,23 +1,23 @@
----
-Solar Panel Cleaner Invention 
----
-<h4 align="center"> Checkpoint 2</h4> 
 
-<h4 align="center">Team 301</h4> 
+<h1> Solar Panel Cleaner Invention</h1>
 
- <h4 align="center">Salsabil Soliman</h4>
+<h4> Checkpoint 2</h4> 
 
-<h4 align="center">Fatema Alshehhi</h4>
+<h4>Team 301</h4> 
 
-<h4 align="center">Arizona State University</h4>
+ <h4>Salsabil Soliman</h4>
 
-<h4 align="center">EGR 314</h4>
+<h4>Fatema Alshehhi</h4>
 
-<h4 align="center">Prof. Travis Kelley</h4>
+<h4>Arizona State University</h4>
 
-<h4 align="center"> Last Updated On: 2/26/2023</h4>
+<h4>EGR 314</h4>
 
-  ## [1.0 Who are we? What is our team organization strategy?](/team-organization)
+<h4>Prof. Travis Kelley</h4>
+
+<h4> Last Updated On: 2/26/2023</h4>
+
+## [1.0 Who are we? What is our team organization strategy?](/team-organization)
 In this section you will go through our team strategy to keep track of the 
 project process and the timeline. Moreover, you will get to know who the team members are and what their roles are.
 > [1.1 Charter]
