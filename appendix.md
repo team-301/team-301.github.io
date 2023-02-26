@@ -233,7 +233,7 @@ about the responsibility to perform it through the semester.
 68. should be able to know how long it runs on a certain charge
 
 69. should be able to calculate the efficiency according to the sensor
-    > data such as wind speed and humidity
+     data such as wind speed and humidity
 
 70. should be able to operate in different area size
 
