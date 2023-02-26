@@ -2,7 +2,7 @@
 <br />
 <br />
 <br />
-<h4 align="center"> Checkpoint 1</h4> 
+<h4 align="center"> Checkpoint 2</h4> 
 
 <h4 align="center">Team 301</h4> 
 
