@@ -1,4 +1,4 @@
-# **7****.0 Appendix** 
+# **8.0 Appendix**
 
 ## **<u>Table 12. Communication Channels</u>**
 
