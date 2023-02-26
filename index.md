@@ -1,5 +1,4 @@
 
----
 Solar Panel Cleaner Invention 
 ---
   <span id="_vsi9fgi54zcx" class="anchor"></span>Team 301
