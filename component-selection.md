@@ -129,7 +129,7 @@ frequently used in industry and it was recommended by the instructor.
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image40.png" style="width:1.51042in;height:0.93407in" /></p>
+<th><p><img src="images2/image25.png" style="width:50%;height:50%" /></p>
 <p>Mini DC Motor High Torque Part <strong>No.</strong></p>
 <p>B01M58POHF</p>
 <p><strong>Price</strong>: 6$</p>
@@ -158,7 +158,7 @@ frequently used in industry and it was recommended by the instructor.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image28.png" style="width:1.25521in;height:1.19584in" /></p>
+<th><p><img src="images2/image29.png" style="width:50%;height:50%" /></p>
 <p>DC-12V-550 RPM Motor</p>
 <p>Part <strong>No.</strong></p>
 <p>Greartisan</p>
@@ -188,7 +188,7 @@ frequently used in industry and it was recommended by the instructor.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image37.png" style="width:1.51042in;height:0.97917in" /></p>
+<th><p><img src="images2/image39.png" style="width:50%;height:50%" /></p>
 <p>Low voltage DC motor</p>
 <p>Part <strong>No</strong>.</p>
 <p>HC385G-302</p>
@@ -244,7 +244,7 @@ chosen option.
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image5.png" style="width:1.33854in;height:1.01426in" /></p>
+<th><p><img src="images2/image4.png" style="width:50%;height:50%" /></p>
 <p>85V Half Bridge MOSFET Drive</p>
 <p>Part <strong>No.</strong></p>
 <p>MIC4605-2YM-TR</p>
@@ -274,7 +274,7 @@ chosen option.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image35.png" style="width:1.18229in;height:0.96899in" /></p>
+<th><p><img src="images2/image38.png" style="width:50%;height:50%" /></p>
 <p>85V Half Bridge MOSFET Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>TC642BEOA</p>
@@ -304,7 +304,7 @@ chosen option.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image3.png" style="width:1.43328in;height:1.07127in" /></p>
+<th><p><img src="images2/image12.png" style="width:50%;height:50%" /></p>
 <p>Brush DC Motor Controller</p>
 <p>Part <strong>No.</strong></p>
 <p>IFX9201SGAUMA1</p>
@@ -359,7 +359,7 @@ range of the power supply as it works from 1.8-9v.
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image21.png" style="width:1.21354in;height:0.98958in" /></p>
+<th><p><img src="images2/image23.png" style="width:50%;height:50%" /></p>
 <p>DC-Power Connectors</p>
 <p>Part <strong>No.</strong></p>
 <p>PJ-014CH-SMT-TR</p>
@@ -383,7 +383,7 @@ range of the power supply as it works from 1.8-9v.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image8.png" style="width:0.98958in;height:0.98958in" /></p>
+<th><p><img src="images2/image2.png" style="width:50%;height:50%" /></p>
 <p>DC Power Connectors</p>
 <p>Part <strong>No.</strong></p>
 <p>PJ-075DH-SMT-TR</p>
@@ -410,7 +410,7 @@ range of the power supply as it works from 1.8-9v.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image22.png" style="width:0.85417in;height:0.92601in" /></p>
+<th><p><img src="images2/image31.png" style="width:50%;height:50%" /></p>
 <p>DC Power Connectors 0.65x 2.6mm</p>
 <p>Part <strong>No.</strong> PJ-042-SMT-TR</p>
 <p><strong>Price</strong>: 1.30$</p>
