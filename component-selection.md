@@ -15,12 +15,16 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
+<figure class="image">  
+
+<div style="text-align: center">  
+
 <img src="images2/image1.png" width="50%"><br>  
 <p>Temperature Sensor Digital.</p>
 <p>Part <strong>No.</strong></p>
 <p>TC74A4-3.3VCTTR</p>
 <p><strong>Price</strong>: 1.09$</p>
-<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268"><u>Link</u></a></p></th>
+<p><img src="images2/image33.png"><u>Link</u></p></th>
 <th><ul>
 <li><blockquote>
 <p>It’s digital</p>
