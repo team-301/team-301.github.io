@@ -1,17 +1,9 @@
 
 <h1> Solar Panel Cleaner Invention</h1>
 
-<h4> Checkpoint 2</h4> 
-
-<h4>Team 301</h4> 
-
- <h4>Salsabil Soliman</h4>
-
-<h4>Fatema Alshehhi</h4>
+<h4> EGR 314 Checkpoint 2, Team 301:Salsabil Soliman, Fatema Alshehhi</h4> 
 
 <h4>Arizona State University</h4>
-
-<h4>EGR 314</h4>
 
 <h4>Prof. Travis Kelley</h4>
 
