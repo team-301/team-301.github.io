@@ -1,16 +1,6 @@
 ---
 Solar Panel Cleaner Invention 
 ---
-  <span id="_vsi9fgi54zcx" class="anchor"></span>Team 301
-
-  <span id="_q33it83zch9" class="anchor"></span>Fatema Alshehhi,
-  Salsabil Soliman
-
-  <span id="_9gc41n8pnmmw" class="anchor"></span>Prof. Travis Kelley
-
-  <span id="_czbhmj89764z" class="anchor"></span>Arizona State
-  University
-
 
 ## [1.0] Who are we? What is our team organization strategy?
 In this section you will go through our team strategy to keep track of
