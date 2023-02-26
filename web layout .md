@@ -1,5 +1,6 @@
 ---
 title: |
+---
   <span id="_qok7foz8m2vw" class="anchor"></span>Solar Panel Cleaner
   Invention
 
@@ -12,7 +13,7 @@ title: |
 
   <span id="_czbhmj89764z" class="anchor"></span>Arizona State
   University
----
+
 
 **[1.0](https://docs.google.com/document/d/1BukRWE4j8Xf8-uv_uhyYQ5BT0LerRA6HTaDD8p2GfY0/edit#heading=h.l1ayc5yrggw6)
 Who are we? What is our team organization strategy?
