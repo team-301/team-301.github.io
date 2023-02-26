@@ -12,7 +12,6 @@ Solar Panel Cleaner Invention
   <span id="_czbhmj89764z" class="anchor"></span>Arizona State
   University
   
-
 ## [1.0 Who are we? What is our team organization strategy?](/team-organization)
 In this section you will go through our team strategy to keep track of the 
 project process and the timeline. Moreover, you will get to know who the team members are and what their roles are.
