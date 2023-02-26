@@ -15,7 +15,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image1.png" style="width:25%;height:25%" /></p>
+<th><p><img src="images2/image1.png" style="width:50%;height:50%" /></p>
 <p>Temperature Sensor Digital.</p>
 <p>Part <strong>No.</strong></p>
 <p>TC74A4-3.3VCTTR</p>
@@ -45,7 +45,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="images2/image33.png" style="width:1.14063in;height:0.75258in" /></p>
+<th><p><img src="images2/image33.png" style="width:50%;height:50%" /></p>
 <p>100 Ohms RTD Platinum</p>
 <p>Part <strong>No.</strong></p>
 <p>749-1056-2-ND</p>
@@ -75,7 +75,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image28.png" style="width:1.14063in;height:0.75258in" /></p>
+<th><p><img src="images2/image28.png" style="width:50%;height:50%" /></p>
 <p>Temperature Sensor Analog</p>
 <p>Part <strong>No.</strong> 296-TMP236A4DCKTT-ND</p>
 <p><strong>Price</strong>: 1.24$</p>
