@@ -13,6 +13,15 @@ diagram of the electrical system would show the power supply at the top,
 followed by the microcontroller, motor driver, and temperature sensor.
 The connections between the components would be indicated by arrows.
 
-<img src="media/image38.jpg" style="width:3.76552in;height:5.23324in" />
+<figure class="image">  
 
-**<u>Fig 13. Block Diagram</u>**
+<div style="text-align: center">  
+
+<img src="images2/image35.png" width="50%"><br>  
+
+Figure 13 - Block Diagram  
+
+</div>
+
+</figure>
+
