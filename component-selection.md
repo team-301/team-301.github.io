@@ -15,16 +15,12 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<figure class="image">  
-
-<div style="text-align: center">  
-
-<img src="images2/image1.png" width="50%"><br>  
+<th><p><img src="media/image12.png" style="width:1.14063in;height:0.75258in" /></p>
 <p>Temperature Sensor Digital.</p>
 <p>Part <strong>No.</strong></p>
 <p>TC74A4-3.3VCTTR</p>
 <p><strong>Price</strong>: 1.09$</p>
-<p><img src="images2/image33.png"><u>Link</u></p></th>
+<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268"><u>Link</u></a></p></th>
 <th><ul>
 <li><blockquote>
 <p>It’s digital</p>
@@ -558,3 +554,4 @@ option was the best choice for the purposes of our build
 
 *\*\* We will use the 9V power supply from 304 kit “AlloverPower Part
 #B08TW9L8VX 9V 3A\*\**
+![image](https://user-images.githubusercontent.com/122775877/221394323-e698ff74-a1cc-4a02-8a74-954a4e31dbf8.png)
