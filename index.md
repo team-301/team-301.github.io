@@ -1275,30 +1275,647 @@ look and function like. The step of design ideation made all of us on
 the same page while we were brainstorming and designing. Finally we are
 looking for more feedback to make the final decision.
 
-# **4.0 Appendix** 
+# **Selected Design**
 
-## **<span class="underline">Table 12. Communication Channels</span>**
+As a team, we chose the third option of our concept designs. Mainly we
+focused on building an invention that help solar panels to clean itself
+and produce more energy based on it’s temperature readings. On the other
+hand, we chose the third concept due to its simplicity with its
+features.
 
-| **Name**            | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
-| ------------------- | ------------------------------ | ------------------------------- | ------------------------------ |
-| Fatema Alshehhi     | *Discord*                      | *WhatsApp*                      | *Messages*                     |
-| Sivanee Naghichetty | *Discord*                      | *WhatsApp*                      | *Messages*                     |
-| Timothy Drafz       | *Discord*                      | *Messages*                      | *WhatsApp*                     |
-| Salsabil Soliman    | *Discord*                      | *WhatsApp*                      | *Messages*                     |
+# **4.0 Block Diagram**
+
+The electrical system receives an unregulated 9V DC input from Part
+*#B08TW9L8VX AC-DC* wall power supply. The 9V input is regulated to 3.3V
+using the switching regulator *IC REG* *BUCK 3.3V 2A*. The regulated
+output then powers the Microchip *PIC16F15323T-I/SL* microcontroller,
+which controls the motors through the *FAN8100N-FS-ND* H-Bridge Driver
+through pins RA4/5. The temperature sensor *TC74A4-3.3V* is connected to
+the microcontroller using i2c serial communication through pins RA1 and
+RA2 which are the SDA and SCL pins. The microcontroller receives data
+from the temperature sensor and uses it to control the motors. The block
+diagram of the electrical system would show the power supply at the top,
+followed by the microcontroller, motor driver, and temperature sensor.
+The connections between the components would be indicated by arrows.
+
+<img src="media/image38.jpg" style="width:3.76552in;height:5.23324in" />
+
+**<u>Fig 13. Block Diagram</u>**
+
+# **5.0 Major Component Selections**
+
+-   Temperature Sensor
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image12.png" style="width:1.14063in;height:0.75258in" /></p>
+<p>Temperature Sensor Digital.</p>
+<p>Part <strong>No.</strong></p>
+<p>TC74A4-3.3VCTTR</p>
+<p><strong>Price</strong>: 1.09$</p>
+<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>It’s digital</p>
+</blockquote></li>
+<li><blockquote>
+<p>Well manufactured</p>
+</blockquote></li>
+<li><blockquote>
+<p>Famous in the industry</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Limited temperature range</p>
+</blockquote></li>
+<li><blockquote>
+<p>It can heat itself</p>
+</blockquote></li>
+<li><blockquote>
+<p>Hard to find</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="header">
+<th><p><img src="media/image30.png" style="width:0.79446in;height:0.80217in" /></p>
+<p>100 Ohms RTD Platinum</p>
+<p>Part <strong>No.</strong></p>
+<p>749-1056-2-ND</p>
+<p><strong>Price</strong>: 2.56$</p>
+<p><a href="https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/PTS0603M1B100RP100/5977838"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Fast response</p>
+</blockquote></li>
+<li><blockquote>
+<p>Low voltage</p>
+</blockquote></li>
+<li><blockquote>
+<p>Affordable</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>High sensitivity</p>
+</blockquote></li>
+<li><blockquote>
+<p>Large coefficient of resistance</p>
+</blockquote></li>
+<li><blockquote>
+<p>It’s unknown capacity of heat</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image20.png" style="width:0.89202in;height:0.89202in" /></p>
+<p>Temperature Sensor Analog</p>
+<p>Part <strong>No.</strong> 296-TMP236A4DCKTT-ND</p>
+<p><strong>Price</strong>: 1.24$</p>
+<p><a href="https://www.digikey.com/en/products/detail/texas-instruments/TMP236A4DCKT/9692559"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>It is analog</p>
+</blockquote></li>
+<li><blockquote>
+<p>Good voltage range</p>
+</blockquote></li>
+<li><blockquote>
+<p>Affordable</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>It needs ADC to turn it into digital</p>
+</blockquote></li>
+<li><blockquote>
+<p>It’s Accuracy level is not good enough</p>
+</blockquote></li>
+<li><blockquote>
+<p>Its needs more testing</p>
+</blockquote></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Choice:** 1st Option.
+
+**Rationale:** The first solution is the perfect choice for our project;
+because of its functionality and digital output. Moreover, it is
+frequently used in industry and it was recommended by the instructor.
+
+-   Motors
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image40.png" style="width:1.51042in;height:0.93407in" /></p>
+<p>Mini DC Motor High Torque Part <strong>No.</strong></p>
+<p>B01M58POHF</p>
+<p><strong>Price</strong>: 6$</p>
+<p><a href="https://www.amazon.com/AUTOTOOLHOME-Torque-Traxxas-Wheels-Electric/dp/B01M58POHF/ref=asc_df_B01M58POHF/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=309768150198&amp;hvpos=&amp;hvnetw=g&amp;hvrand=9707710327954434611&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9030039&amp;hvtargid=pla-526501699343&amp;psc=1&amp;region_id=972485"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Have a wide range of voltage</p>
+</blockquote></li>
+<li><blockquote>
+<p>Not expensive</p>
+</blockquote></li>
+<li><blockquote>
+<p>Run on low current .24A</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Sold by amazon</p>
+</blockquote></li>
+<li><blockquote>
+<p>Require a motor driver</p>
+</blockquote></li>
+<li><blockquote>
+<p>Bearings wearing out quickly</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="header">
+<th><p><img src="media/image28.png" style="width:1.25521in;height:1.19584in" /></p>
+<p>DC-12V-550 RPM Motor</p>
+<p>Part <strong>No.</strong></p>
+<p>Greartisan</p>
+<p><strong>Price</strong>: 14.9$</p>
+<p><a href="https://www.amazon.com/dp/B072R5G5GR/ref=sspa_dk_detail_0?pd_rd_i=B072R5G5GR&amp;pd_rd_w=9QlSN&amp;content-id=amzn1.sym.46bad5f6-1f0a-4167-9a8b-c8a82fa48a54&amp;pf_rd_p=46bad5f6-1f0a-4167-9a8b-c8a82fa48a54&amp;pf_rd_r=KGC3HCZ0W92G622A4WGB&amp;pd_rd_wg=kAivu&amp;pd_rd_r=a5ba4536-3a9c-4d9b-9b05-c72407cce6f6&amp;s=industrial&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVlhXTFdKOFRSUzlCJmVuY3J5cHRlZElkPUEwNzE3MjUxMkRZUlk1MzlSVEJEViZlbmNyeXB0ZWRBZElkPUEwNTAwNzg2VEc2VEFYNkVUQzJPJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&amp;th=1"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Good/higher quality</p>
+</blockquote></li>
+<li><blockquote>
+<p>Can generate up to 550 rpm</p>
+</blockquote></li>
+<li><blockquote>
+<p>Run at low current of 0.5 A</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>More expensive</p>
+</blockquote></li>
+<li><blockquote>
+<p>Sold by amazon</p>
+</blockquote></li>
+<li><blockquote>
+<p>No shaft encoder</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image37.png" style="width:1.51042in;height:0.97917in" /></p>
+<p>Low voltage DC motor</p>
+<p>Part <strong>No</strong>.</p>
+<p>HC385G-302</p>
+<p><strong>Price</strong>: 6.7$</p>
+<p><a href="https://www.digikey.com/en/products/detail/johnson-motor/HC385G-302/12723725?utm_adgroup=Motors%20-%20AC%2C%20DC&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Product_Motors%2C%20Solenoids%2C%20Driver%20Boards%2FModules_NEW&amp;utm_term=&amp;utm_content=Motors%20-%20AC%2C%20DC&amp;gclid=CjwKCAiAuOieBhAIEiwAgjCvch5cwdnsUAqDaYU8i62zM4vnEvOeKLOOEFvlMCM89TmzsTfB_mCdYRoCVo0QAvD_BwE"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Can provide up to 3900 rpm</p>
+</blockquote></li>
+<li><blockquote>
+<p>Lowest price</p>
+</blockquote></li>
+<li><blockquote>
+<p>Smaller than the other options</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Datasheet link is not correct in the digi-key website</p>
+</blockquote></li>
+<li><blockquote>
+<p>The website doesn't have enough information</p>
+</blockquote></li>
+<li><blockquote>
+<p>The range of operating voltage is unknown</p>
+</blockquote></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Choice:** 1st Option.
+
+**Rationale:** I worked with that motor before and it was easy to use
+and has a very low operation voltage which is 5v. It produces enough
+torque as needed and the price is not too high. That is why this is our
+chosen option.
+
+-   Motor driver
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image5.png" style="width:1.33854in;height:1.01426in" /></p>
+<p>85V Half Bridge MOSFET Drive</p>
+<p>Part <strong>No.</strong></p>
+<p>MIC4605-2YM-TR</p>
+<p><strong>Price:</strong> 0.99$/each</p>
+<p><a href="https://www.microchipdirect.com/product/MIC4605-2YM-TR"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Good power efficiency</p>
+</blockquote></li>
+<li><blockquote>
+<p>5.5-16 operation voltage</p>
+</blockquote></li>
+<li><blockquote>
+<p>Minimum power loss</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>No prior experience with this part</p>
+</blockquote></li>
+<li><blockquote>
+<p>Only drive up to 1A</p>
+</blockquote></li>
+<li><blockquote>
+<p>More expensive than option 3</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="header">
+<th><p><img src="media/image35.png" style="width:1.18229in;height:0.96899in" /></p>
+<p>85V Half Bridge MOSFET Driver</p>
+<p>Part <strong>No.</strong></p>
+<p>TC642BEOA</p>
+<p><strong>Price:</strong> 1.61$/each</p>
+<p><a href="https://www.microchipdirect.com/product/TC642BEOA?gclid=CjwKCAiAuOieBhAIEiwAgjCvcgegk6d1PwPW9TL-aTwDLVQP5Tuk5Z3oMNNYpVNv3R-ySG3dkM5-2hoCWoUQAvD_BwE"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Speed controller</p>
+</blockquote></li>
+<li><blockquote>
+<p>Auto shut down</p>
+</blockquote></li>
+<li><blockquote>
+<p>Fan sens</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>The most expensive option</p>
+</blockquote></li>
+<li><blockquote>
+<p>No sm bus</p>
+</blockquote></li>
+<li><blockquote>
+<p>Missing-pulse detector monitors</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image3.png" style="width:1.43328in;height:1.07127in" /></p>
+<p>Brush DC Motor Controller</p>
+<p>Part <strong>No.</strong></p>
+<p>IFX9201SGAUMA1</p>
+<p><strong>Price:</strong> 4.88$/each</p>
+<p><a href="https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Lowest price</p>
+</blockquote></li>
+<li><blockquote>
+<p>Previous experience with FAN8100N</p>
+</blockquote></li>
+<li><blockquote>
+<p>Drive up to 3A</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Power efficiency</p>
+</blockquote></li>
+<li><blockquote>
+<p>Not available in peralta lab</p>
+</blockquote></li>
+<li><blockquote>
+<p>Only up to 9v of supplying and loading voltage</p>
+</blockquote></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Choice:** 3rd Option
+
+**Rationale:** We chose that option because we have previous experience
+with that part. It is also the least expensive part and has the required
+range of the power supply as it works from 1.8-9v.
+
+-   Barrel Jack
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image21.png" style="width:1.21354in;height:0.98958in" /></p>
+<p>DC-Power Connectors</p>
+<p>Part <strong>No.</strong></p>
+<p>PJ-014CH-SMT-TR</p>
+<p><strong>Price</strong>: 1.16$</p>
+<p><a href="https://www.mouser.com/ProductDetail/CUI-Devices/PJ-014CH-SMT-TR?qs=sGAEpiMZZMv1TUPJeFpwbqPioV%2FJqV42Z1vxV%252BE55U5kVPK3J5%2F0Kg%3D%3D"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Low cost</p>
+</blockquote></li>
+<li><blockquote>
+<p>Rated for 24VDC</p>
+</blockquote></li>
+<li><blockquote>
+<p>Rated for 3.5A</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Larger footprint</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="header">
+<th><p><img src="media/image8.png" style="width:0.98958in;height:0.98958in" /></p>
+<p>DC Power Connectors</p>
+<p>Part <strong>No.</strong></p>
+<p>PJ-075DH-SMT-TR</p>
+<p><strong>Price</strong>: 1.15$</p>
+<p><a href="https://www.mouser.com/ProductDetail/CUI-Devices/PJ-075DH-SMT-TR?qs=sGAEpiMZZMv1TUPJeFpwbqPioV%2FJqV42apCsPRCy1JEgv1XhwqI1mg%3D%3D"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Low cost</p>
+</blockquote></li>
+<li><blockquote>
+<p>Rated for 24VDC</p>
+</blockquote></li>
+<li><blockquote>
+<p>Small footprint</p>
+</blockquote></li>
+<li><blockquote>
+<p>Rated for 3.5A</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Smaller outer contact</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image22.png" style="width:0.85417in;height:0.92601in" /></p>
+<p>DC Power Connectors 0.65x 2.6mm</p>
+<p>Part <strong>No.</strong> PJ-042-SMT-TR</p>
+<p><strong>Price</strong>: 1.30$</p>
+<p><a href="https://www.mouser.com/ProductDetail/CUI-Devices/PJ-042-SMT-TR?qs=sGAEpiMZZMv1TUPJeFpwbqPioV%2FJqV42QBQ%252BVrvS20amyriTrC08GQ%3D%3D"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Small footprint</p>
+</blockquote></li>
+<li><blockquote>
+<p>Rated for 24VDC</p>
+</blockquote></li>
+<li><blockquote>
+<p>Lightweight</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Higher cost</p>
+</blockquote></li>
+<li><blockquote>
+<p>Uncommon connector size</p>
+</blockquote></li>
+<li><blockquote>
+<p>Low amperage rating</p>
+</blockquote></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Choice:** 2nd Option.
+
+**Rationale:** The third option has too low of an amperage rating to be
+used so the choice was between one and two mostly. Both of these are
+similar and work well, but the smaller footprint for the PCB made option
+two the better choice.
+
+-   Switching Regulator
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image1.png" style="width:1.23264in;height:1.23899in" /></p>
+<p>IC REG BUCK 3.3V 2A</p>
+<p>Part <strong>No.</strong></p>
+<p>AP63203WU-7</p>
+<p><strong>Price</strong>: 0.91$</p>
+<p><a href="https://www.digikey.com/en/products/detail/diodes-incorporated/AP63203WU-7/9858426"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Cheaper cost</p>
+</blockquote></li>
+<li><blockquote>
+<p>Good 2A output</p>
+</blockquote></li>
+<li><blockquote>
+<p>Smaller footprint</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Operating temperature range is lower</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="header">
+<th><p><img src="media/image32.png" style="width:1.23427in;height:1.23427in" /></p>
+<p>IC REG BUCK 3.3V 3A</p>
+<p>Part <strong>No.</strong></p>
+<p>TS30013-M033QFNR</p>
+<p><strong>Price</strong>: 2.06$</p>
+<p><a href="https://www.digikey.com/en/products/detail/semtech-corporation/TS30013-M033QFNR/5415605"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Large 3A output</p>
+</blockquote></li>
+<li><blockquote>
+<p>Connections add for greater use diversity</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Higher cost</p>
+</blockquote></li>
+<li><blockquote>
+<p>Large footprint</p>
+</blockquote></li>
+</ul></th>
+</tr>
+<tr class="odd">
+<th><p><img src="media/image2.png" style="width:1.10925in;height:1.11497in" /></p>
+<p>IC REG BUCK 3.3V 500MA</p>
+<p>Part <strong>No.</strong></p>
+<p>MAX5033AASA+T</p>
+<p><strong>Price</strong>: 3.87$</p>
+<p><a href="https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX5033AASA-T/1515262"><u>Link</u></a></p></th>
+<th><ul>
+<li><blockquote>
+<p>Smaller size</p>
+</blockquote></li>
+<li><blockquote>
+<p>Easily found PCB footprint</p>
+</blockquote></li>
+</ul></th>
+<th><ul>
+<li><blockquote>
+<p>Very expensive</p>
+</blockquote></li>
+<li><blockquote>
+<p>Lower output current</p>
+</blockquote></li>
+<li><blockquote>
+<p>Voltage input minimum higher</p>
+</blockquote></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+**Choice:** 1st Option.
+
+**Rationale:** The second option has more diverse use, but takes up more
+space on a board where space is limited. The third option was actually
+good, but the cost is far higher than either of the other options and
+the output current may become a limiting factor. Due to this the first
+option was the best choice for the purposes of our build
+
+*\*\* We will use the 9V power supply from 304 kit “AlloverPower Part
+#B08TW9L8VX 9V 3A\*\**
+
+**Software proposal**
+
+For our software proposal we have our main loop which has
+initialization, interrupt enable and, the logic of our code. Since we
+only have one subsystem beside the microcontroller which is the
+temperature sensor or logic is simple. Our loop keeps measuring the
+temperature until it is 25 C then it starts the motors to start
+cleaning. For our start cleaning loop we run motor 1 and motor2 to move
+the brush horizontally.
+
+# <img src="media/image34.png" style="width:6.5in;height:5.375in" />
+
+**<u>Fig 14. Software proposal</u>**
+
+# 
+
+# **6.0 Hardware proposal**
+
+For our hardware proposal we have our microcontroller with multiple test
+points for programming and debugging purposes. We also have our
+switching regulator circuit, temperature sensor and the ICSP plug in for
+programming the microcontroller.
+
+# <img src="media/image24.png" style="width:6.5in;height:4.79251in" />
+
+**<u>Fig 15. Hardware proposal</u>**
+
+# 
+
+# 
+
+# 
+
+# 
+
+# **7****.0 Appendix** 
+
+## **<u>Table 12. Communication Channels</u>**
+
+| **Name**         | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
+|------------------|--------------------------------|---------------------------------|--------------------------------|
+| Fatema Alshehhi  | *Discord*                      | *WhatsApp*                      | *Messages*                     |
+| Salsabil Soliman | *Discord*                      | *WhatsApp*                      | *Messages*                     |
 
 ## **Communication Procedures**
 
-Communication between group members will take place on Discord. Thus,
-the team will regularly meet and discuss any updates and plan their
-assignments outline and goals. Moreover, the team will email the
-professor as a communication method with the instructor for guidance and
-inquiries. Zoom/Discord meetings will also be held for updates or quick
-weekday meetups.
+> Communication between group members will take place on Discord. Thus,
+> the team will regularly meet and discuss any updates and plan their
+> assignments outline and goals. Moreover, the team will email the
+> professor as a communication method with the instructor for guidance
+> and inquiries. Zoom/Discord meetings will also be held for updates or
+> quick weekday meetups.
 
 ## **Meeting Schedule**
 
 Our team availability can be found through this
-[<span class="underline">link</span>](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit).
+[<u>link</u>](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit).
 Initially, we are planning to meet Fridays from 3:00 PM until 5:00 PM.
 However, our team will try to discuss and work all the main agenda
 through the class time. Additionally, we will hold zoom/Discord meetings
@@ -1306,42 +1923,66 @@ on weekdays to discuss any updates and plan in-person meetings.
 
 **Meeting Coordination**
 
-  - > We are going to remind each other by the meetings through discord.
+-   We are going to remind each other by the meetings through discord.
 
-  - > The meeting time is based on the [<span class="underline">schedule
-    > of
-    > availability</span>](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit)
+-   The meeting time is based on the [<u>schedule of
+    > availability</u>](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit)
     > and discussions at least a week before.
 
-  - > Our preferred meeting methode is online through discord/zoom if no
+-   Our preferred meeting methode is online through discord/zoom if no
     > in-person work is required.
 
-  - > Team members need to notify the team if there were any changes to
+-   Team members need to notify the team if there were any changes to
     > their availability schedule to ensure that we are all attending
     > the meetings on time.
 
 ## **Team Coordination**
 
-  - > We set an earlier due date which ranges between 4-24 hours before
+-   We set an earlier due date which ranges between 4-24 hours before
     > the actual due date and make sure that every team member is
     > checked off by the time that we set it.
 
-  - > We will ask every team member about their knowledge and what part
-    > do they think they can do the best based on previous semesters
+-   We will ask every team member about their knowledge and what part do
+    > they think they can do the best based on previous semesters
     > projects or any projects that they did before.
 
-  - > The assignments will be reviewed and validated by each team member
+-   The assignments will be reviewed and validated by each team member
     > before submission to ensure that we have everything as it should
     > be.
 
-## **<span class="underline">Table 13.Roles and Responsibilities</span>** 
+## **<u>Table 13.Roles and Responsibilities</u>** 
 
-| **Role**          |                  | **Duties**                                                                                                                                |
-| ----------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Salsabil Soliman | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Sivanee          | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Timothy          | Coordinates the team’s work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Fatema           | Tracks the team’s progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 69%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Role</strong></th>
+<th></th>
+<th><strong>Duties</strong></th>
+</tr>
+<tr class="odd">
+<th><p>Meeting leader and</p>
+<p>Meeting recorder</p></th>
+<th>Salsabil Soliman</th>
+<th><p>Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting</p>
+<p>And</p>
+<p>Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned</p></th>
+</tr>
+<tr class="header">
+<th>Project monitor and Assignment leader</th>
+<th>Fatema</th>
+<th><p>Tracks the team’s progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status</p>
+<p>And</p>
+<p>Coordinates the team's work on a given assignment to Canvas before the due date</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 ## **How will you assign technical responsibilities to the team members?**
 
@@ -1353,219 +1994,218 @@ about the responsibility to perform it through the semester.
 
 ## **User needs list**
 
-1.  > The product should be easy to use/ user friendly
+1.  The product should be easy to use/ user friendly
 
-2.  > The product should work on multi dirt levels areas not just light
+2.  The product should work on multi dirt levels areas not just light
 
-3.  > The cleaning area should be bigger/wider
+3.  The cleaning area should be bigger/wider
 
-4.  > Would be better if it need replacement after working for a longer
+4.  Would be better if it need replacement after working for a longer
     > time
 
-5.  > The product worked on a high dirt level surface
+5.  The product worked on a high dirt level surface
 
-6.  > Improving user-robot interaction experience
+6.  Improving user-robot interaction experience
 
-7.  > Cleaning product/water spray
+7.  Cleaning product/water spray
 
-8.  > Can be used frequently
+8.  Can be used frequently
 
-9.  > Efficient/functional design
+9.  Efficient/functional design
 
-10. > Can shut itself down to save power
+10. Can shut itself down to save power
 
-11. > Nice Display and design
+11. Nice Display and design
 
-12. > Efficient and long-lasting product
+12. Efficient and long-lasting product
 
-13. > Good electrical and mechanical build
+13. Good electrical and mechanical build
 
-14. > the cleaning area should be bigger/wider
+14. the cleaning area should be bigger/wider
 
-15. > Smart technology/algorithm for user need and interaction
+15. Smart technology/algorithm for user need and interaction
 
-16. > Improving user-robot interaction experience
+16. Improving user-robot interaction experience
 
-17. > The robot need to be able to act by itself
+17. The robot need to be able to act by itself
 
-18. > The robot left no stains after cleaning
+18. The robot left no stains after cleaning
 
-19. > Easy to maintain
+19. Easy to maintain
 
-20. > Should be able to map out the area and create consistent pathways
+20. Should be able to map out the area and create consistent pathways
 
-21. > Easy to use
+21. Easy to use
 
-22. > Works on multiple layers
+22. Works on multiple layers
 
-23. > Follows set patterns
+23. Follows set patterns
 
-24. > Can be manually operated
+24. Can be manually operated
 
-25. > Can automatically restart programmed sequence
+25. Can automatically restart programmed sequence
 
-26. > Ability to control the working time
+26. Ability to control the working time
 
-27. > Competitive price
+27. Competitive price
 
-28. > Should be able to process data correctly as it should
+28. Should be able to process data correctly as it should
 
-29. > Efficient battery life
+29. Efficient battery life
 
-30. > The robot need to be able to act by itself
+30. The robot need to be able to act by itself
 
-31. > Does not need to be watched
+31. Does not need to be watched
 
-32. > Can work for longer periods of time
+32. Can work for longer periods of time
 
-33. > Cleans heavy build-up
+33. Cleans heavy build-up
 
-34. > Can reach high places safely
+34. Can reach high places safely
 
-35. > Can recharge itself
+35. Can recharge itself
 
-36. > Does not break easily
+36. Does not break easily
 
-37. > Can be used in smaller areas
+37. Can be used in smaller areas
 
-38. > Long-lasting
+38. Long-lasting
 
-39. > Wireless
+39. Wireless
 
-40. > Finishes work quickly
+40. Finishes work quickly
 
-41. > Need longer battery life
+41. Need longer battery life
 
-42. > Efficient battery use
+42. Efficient battery use
 
-43. > Control the space in where it is working
+43. Control the space in where it is working
 
-44. > Knows how to process data and act when unusual object was on the
-    > way
+44. Knows how to process data and act when unusual object was on the way
 
-45. > Ability to control the working time
+45. Ability to control the working time
 
-46. > Cost efficient
+46. Cost efficient
 
-47. > Solid balance
+47. Solid balance
 
-48. > Does not corrupt/damage the surface
+48. Does not corrupt/damage the surface
 
-49. > Doesn't lose power quickly
+49. Doesn't lose power quickly
 
-50. > Have to work on different environment/surface
+50. Have to work on different environment/surface
 
-51. > Can work under any pressure of work given
+51. Can work under any pressure of work given
 
-52. > Feedback to the user like showing battery remaining
+52. Feedback to the user like showing battery remaining
 
-53. > Does not waste user's time and meets the purpose that it was made
+53. Does not waste user's time and meets the purpose that it was made
     > for
 
-54. > Sustainable
+54. Sustainable
 
-55. > Uses fewer resources
+55. Uses fewer resources
 
-56. > Easy to set up
+56. Easy to set up
 
-57. > Can process data correctly as it should
+57. Can process data correctly as it should
 
-58. > Does not have Programming errors
+58. Does not have Programming errors
 
-59. > Efficient work
+59. Efficient work
 
-60. > The ability to do daily work
+60. The ability to do daily work
 
-61. > Should have a camera installed
+61. Should have a camera installed
 
-62. > have an emergency shutdown option
+62. have an emergency shutdown option
 
-63. > The ability of manual/remote troubleshooting
+63. The ability of manual/remote troubleshooting
 
-64. > Can be both manually/self controlled
+64. Can be both manually/self controlled
 
-65. > should be able to move from solar panel to another
+65. should be able to move from solar panel to another
 
-66. > should know its way back to the charging station
+66. should know its way back to the charging station
 
-67. > should be able to know when to charge itself
+67. should be able to know when to charge itself
 
-68. > should be able to know how long it runs on a certain charge
+68. should be able to know how long it runs on a certain charge
 
-69. > should be able to calculate the efficiency according to the sensor
+69. should be able to calculate the efficiency according to the sensor
     > data such as wind speed and humidity
 
-70. > should be able to operate in different area size
+70. should be able to operate in different area size
 
-71. > should give daily-weekly reports to the user to collect data
+71. should give daily-weekly reports to the user to collect data
 
-72. > should be able to store the data collected
+72. should be able to store the data collected
 
-73. > is safe to use
+73. is safe to use
 
-74. > use the energy generated by the solar panels to recharge
+74. use the energy generated by the solar panels to recharge
 
-75. > know when is the best time to start/stop working
+75. know when is the best time to start/stop working
 
-76. > easy to move from one place to another
+76. easy to move from one place to another
 
-77. > can operate by itself for a long time periods
+77. can operate by itself for a long time periods
 
-78. > needs lees human supervision
+78. needs lees human supervision
 
-79. > the ability to deal with different weather conditions
+79. the ability to deal with different weather conditions
 
-80. > should have a good electrical isolation for safety purposes
+80. should have a good electrical isolation for safety purposes
 
-81. > must be waterproof
+81. must be waterproof
 
-82. > the user should be able to track the robot
+82. the user should be able to track the robot
 
-83. > Good price with good quality
+83. Good price with good quality
 
-84. > Long-lasting Materials
+84. Long-lasting Materials
 
-85. > Works under worst circumstances and has good features
+85. Works under worst circumstances and has good features
 
-86. > Should not miss areas and be able to clean the entire surface
+86. Should not miss areas and be able to clean the entire surface
 
-87. > The cleaning patterns should be improved/smarter
+87. The cleaning patterns should be improved/smarter
 
-88. > The prices should be reasonable for the technology and services it
+88. The prices should be reasonable for the technology and services it
     > provides
 
-89. > Should be able to move in any direction needed
+89. Should be able to move in any direction needed
 
-90. > Should use a reliable materials
+90. Should use a reliable materials
 
-91. > Should be able to operate efficiently in various conditions
+91. Should be able to operate efficiently in various conditions
 
-92. > easy to maintain
+92. easy to maintain
 
-93. > Should be able to identify and mark the edges of the area
+93. Should be able to identify and mark the edges of the area
 
-94. > It does not need regular maintenance
+94. It does not need regular maintenance
 
-95. > The algorithm/coding need to be fixed as it gets stuck/confused
+95. The algorithm/coding need to be fixed as it gets stuck/confused
     > against simple linear surfaces/ should be able to clearly identify
     > the path
 
-96. > It does the job accurately and takes actions fast
+96. It does the job accurately and takes actions fast
 
-97. > Good set up process
+97. Good set up process
 
-98. > Good instructions and make it as simple as possible
+98. Good instructions and make it as simple as possible
 
-99. > It should states how to be used in different environment with good
+99. It should states how to be used in different environment with good
     > instructions
 
-100. > Customer services that is aware of common issues between users to
+100. Customer services that is aware of common issues between users to
      > answer questions or common questions answered on the instruction
      > paper
 
-101. > It should have high sensing and accurately does it job
+101. It should have high sensing and accurately does it job
 
-102. > Easy to use and understand
+102. Easy to use and understand
 
 ## **Our Team Milestones**
 
