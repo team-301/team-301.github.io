@@ -27,13 +27,13 @@
 <br />
 <br />
 
-## [1.0 Team Organization] (/team-organization)
+## [1.0 Team Organization](/team-organization)
 
 > [1.1 Charter] 
 > 
 > [1.2 Product Mission Statement]
 
-## [2.0 User Needs, Benchmarking and Requirements] (/user-needs)
+## [2.0 User Needs, Benchmarking and Requirements](/user-needs)
 
 > [2.1 Voice Of Customers]
 > 
@@ -45,7 +45,7 @@
 > 
 > [Product requirement Assessment]
 
-## [3.0 Design Ideation] (/design-ideation)
+## [3.0 Design Ideation](/design-ideation)
 
 > [3.1 Background and Steps]
 > 
