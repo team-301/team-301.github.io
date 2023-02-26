@@ -15,7 +15,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image1.png" style="width:1.14063in;height:0.75258in" /></p>
+<th><p><img src="images2/image1.png" style="width:0.5in;height:0.5in" /></p>
 <p>Temperature Sensor Digital.</p>
 <p>Part <strong>No.</strong></p>
 <p>TC74A4-3.3VCTTR</p>
