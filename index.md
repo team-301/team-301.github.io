@@ -35,7 +35,7 @@ through the next parts.
 >
 > [Product requirement Assessment]
 
-## [3.0 DesignIdeation](/design-ideation)
+## [3.0 Design Ideation](/design-ideation)
 
 Here, you can go through the three designs our team created. Moreover,
 you will see our final chosen design and how we chose it.
