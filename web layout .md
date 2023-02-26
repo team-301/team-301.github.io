@@ -12,7 +12,7 @@ Solar Panel Cleaner Invention
   University
 
 
-## [1.0] Who are we? What is our team organization strategy?**
+## [1.0] Who are we? What is our team organization strategy?
 In this section you will go through our team strategy to keep track of
 the project process and the timeline. Moreover, you will get to know who
 are the team members and what are their roles.
