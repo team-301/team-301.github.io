@@ -1,4 +1,3 @@
-@@ -1,2226 +0,0 @@
 <h1 align="center">Environmental Sensing Invention</h1> 
 <br />
 <br />
