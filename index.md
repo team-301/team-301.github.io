@@ -18,7 +18,6 @@ project process and the timeline. Moreover, you will get to know who the team me
  
 > [1.2 Product Mission Statement]
 
-
 ## [2.0 User Needs, Benchmarking and Requirements](/user-needs)
 
 Starting forward, you will go through the user needs analysis and our
