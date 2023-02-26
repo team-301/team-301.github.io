@@ -8,8 +8,15 @@ temperature until it is 25 C then it starts the motors to start
 cleaning. For our start cleaning loop we run motor 1 and motor2 to move
 the brush horizontally.
 
-# <img src="media/image34.png" style="width:6.5in;height:5.375in" />
+<figure class="image">  
 
-**<u>Fig 14. Software proposal</u>**
+<div style="text-align: center">  
 
-# 
+<img src="images2/image14.png" width="50%"><br>  
+
+Figure 14 - Software proposal  
+
+</div>
+
+</figure>
+
