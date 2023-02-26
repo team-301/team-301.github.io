@@ -554,4 +554,3 @@ option was the best choice for the purposes of our build
 
 *\*\* We will use the 9V power supply from 304 kit “AlloverPower Part
 #B08TW9L8VX 9V 3A\*\**
-
