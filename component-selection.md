@@ -129,7 +129,7 @@ frequently used in industry and it was recommended by the instructor.
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image25.png" style="width:50%;height:50%" /></p>
+<th><p><img src="images2/image25.png" style="width:40%;height:40%" /></p>
 <p>Mini DC Motor High Torque Part <strong>No.</strong></p>
 <p>B01M58POHF</p>
 <p><strong>Price</strong>: 6$</p>
@@ -158,7 +158,7 @@ frequently used in industry and it was recommended by the instructor.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="images2/image29.png" style="width:50%;height:50%" /></p>
+<th><p><img src="images2/image29.png" style="width:40%;height:40%" /></p>
 <p>DC-12V-550 RPM Motor</p>
 <p>Part <strong>No.</strong></p>
 <p>Greartisan</p>
@@ -188,7 +188,7 @@ frequently used in industry and it was recommended by the instructor.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image39.png" style="width:50%;height:50%" /></p>
+<th><p><img src="images2/image39.png" style="width:40%;height:40%" /></p>
 <p>Low voltage DC motor</p>
 <p>Part <strong>No</strong>.</p>
 <p>HC385G-302</p>
