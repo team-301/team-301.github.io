@@ -11,8 +11,7 @@ Solar Panel Cleaner Invention
   <span id="_czbhmj89764z" class="anchor"></span>Arizona State
   University
 
-
-## [1.0 Who are we? What is our team organization strategy?] (/team-organization)
+## [1.0 Who are we? What is our team organization strategy?](/team-organization)
 In this section you will go through our team strategy to keep track of
 the project process and the timeline. Moreover, you will get to know who
 are the team members and what are their roles.
@@ -21,7 +20,7 @@ are the team members and what are their roles.
 > [1.2 Product Mission Statement]
 >
 
-## [2.0 User Needs, Benchmarking and Requirements]
+## [2.0 User Needs, Benchmarking and Requirements] (/user-needs)
 
 Starting forward, you will go through the user needs analysis and our
 team requirements to build a successful project. Also, this part of the
