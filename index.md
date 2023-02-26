@@ -39,10 +39,11 @@ Here, you can go through the three designs our team created. Moreover,
 you will see our final chosen design and how we chose it.
 
 > [3.1 Background and Steps]
+> 
 > [3.2 Brainstorming Steps and Ideas]
->
+> 
 > [3.3 Product Concept Sketches]
->
+> 
 > [3.4 Selected Design]
 
 ## [4.0 Block Diagram](block-diagram)
