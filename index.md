@@ -1,15 +1,23 @@
 
 Solar Panel Cleaner Invention 
 ---
-  <span id="_vsi9fgi54zcx" class="anchor"></span>Team 301
+<h4 align="center"> Checkpoint 2</h4> 
 
-  <span id="_q33it83zch9" class="anchor"></span>Fatema Alshehhi,
-  Salsabil Soliman
+<h4 align="center">Team 301</h4> 
 
-  <span id="_9gc41n8pnmmw" class="anchor"></span>Prof. Travis Kelley
+ <h4 align="center">Salsabil Soliman</h4>
 
-  <span id="_czbhmj89764z" class="anchor"></span>Arizona State
-  University
+<h4 align="center">Fatema Alshehhi</h4>
+
+<h4 align="center">Arizona State University</h4>
+
+<h4 align="center">EGR 314</h4>
+
+<h4 align="center">Prof. Travis Kelley</h4>
+
+<h4 align="center"> Last Updated On: 2/26/2023</h4>
+![image](https://user-images.githubusercontent.com/122775877/221442428-b9f420f8-b41a-4a01-b353-9570376481bc.png)
+
   
 ## [1.0 Who are we? What is our team organization strategy?](/team-organization)
 In this section you will go through our team strategy to keep track of the 
