@@ -10,7 +10,7 @@ programming the microcontroller.
 
 <div style="text-align: center">  
 
-<img src="imagess/image27.png" width="50%"><br>  
+<img src="imagess/image27.jpg" width="50%"><br>  
 
 Figure 15 - Hardware proposal  
 
