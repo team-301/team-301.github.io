@@ -359,7 +359,7 @@ range of the power supply as it works from 1.8-9v.
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image23.png" style="width:50%;height:50%" /></p>
+<th><p><img src="images2/image23.png" style="width:40%;height:40%" /></p>
 <p>DC-Power Connectors</p>
 <p>Part <strong>No.</strong></p>
 <p>PJ-014CH-SMT-TR</p>
@@ -383,7 +383,7 @@ range of the power supply as it works from 1.8-9v.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="images2/image2.png" style="width:50%;height:50%" /></p>
+<th><p><img src="images2/image2.png" style="width:40%;height:40%" /></p>
 <p>DC Power Connectors</p>
 <p>Part <strong>No.</strong></p>
 <p>PJ-075DH-SMT-TR</p>
@@ -410,7 +410,7 @@ range of the power supply as it works from 1.8-9v.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image31.png" style="width:50%;height:50%" /></p>
+<th><p><img src="images2/image31.png" style="width:40%;height:40%" /></p>
 <p>DC Power Connectors 0.65x 2.6mm</p>
 <p>Part <strong>No.</strong> PJ-042-SMT-TR</p>
 <p><strong>Price</strong>: 1.30$</p>
