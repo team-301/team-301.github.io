@@ -101,7 +101,7 @@ about the responsibility to perform it through the semester.
 3.  The cleaning area should be bigger/wider
 
 4.  Would be better if it need replacement after working for a longer
-    > time
+     time
 
 5.  The product worked on a high dirt level surface
 
@@ -200,7 +200,7 @@ about the responsibility to perform it through the semester.
 52. Feedback to the user like showing battery remaining
 
 53. Does not waste user's time and meets the purpose that it was made
-    > for
+     for
 
 54. Sustainable
 
@@ -272,7 +272,7 @@ about the responsibility to perform it through the semester.
 87. The cleaning patterns should be improved/smarter
 
 88. The prices should be reasonable for the technology and services it
-    > provides
+    provides
 
 89. Should be able to move in any direction needed
 
@@ -287,8 +287,8 @@ about the responsibility to perform it through the semester.
 94. It does not need regular maintenance
 
 95. The algorithm/coding need to be fixed as it gets stuck/confused
-    > against simple linear surfaces/ should be able to clearly identify
-    > the path
+     against simple linear surfaces/ should be able to clearly identify
+     the path
 
 96. It does the job accurately and takes actions fast
 
@@ -297,11 +297,11 @@ about the responsibility to perform it through the semester.
 98. Good instructions and make it as simple as possible
 
 99. It should states how to be used in different environment with good
-    > instructions
+     instructions
 
 100. Customer services that is aware of common issues between users to
-     > answer questions or common questions answered on the instruction
-     > paper
+      answer questions or common questions answered on the instruction
+     paper
 
 101. It should have high sensing and accurately does it job
 
