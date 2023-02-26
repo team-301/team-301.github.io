@@ -45,7 +45,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image30.png" style="width:0.79446in;height:0.80217in" /></p>
+<th><p><img src="images2/image33.png" style="width:0.79446in;height:0.80217in" /></p>
 <p>100 Ohms RTD Platinum</p>
 <p>Part <strong>No.</strong></p>
 <p>749-1056-2-ND</p>
@@ -75,7 +75,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image20.png" style="width:0.89202in;height:0.89202in" /></p>
+<th><p><img src="images2/image28.png" style="width:0.89202in;height:0.89202in" /></p>
 <p>Temperature Sensor Analog</p>
 <p>Part <strong>No.</strong> 296-TMP236A4DCKTT-ND</p>
 <p><strong>Price</strong>: 1.24$</p>
