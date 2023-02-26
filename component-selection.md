@@ -465,7 +465,7 @@ two the better choice.
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image1.png" style="width:1.23264in;height:1.23899in" /></p>
+<th><p><img src="images2/image19.png" style="width:50%;height:50%" /></p>
 <p>IC REG BUCK 3.3V 2A</p>
 <p>Part <strong>No.</strong></p>
 <p>AP63203WU-7</p>
@@ -489,7 +489,7 @@ two the better choice.
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image32.png" style="width:1.23427in;height:1.23427in" /></p>
+<th><p><img src="images2/image37.png" style="width:50%;height:50%" /></p>
 <p>IC REG BUCK 3.3V 3A</p>
 <p>Part <strong>No.</strong></p>
 <p>TS30013-M033QFNR</p>
@@ -513,7 +513,7 @@ two the better choice.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image2.png" style="width:1.10925in;height:1.11497in" /></p>
+<th><p><img src="images2/image20.png" style="width:50%;height:50%" /></p>
 <p>IC REG BUCK 3.3V 500MA</p>
 <p>Part <strong>No.</strong></p>
 <p>MAX5033AASA+T</p>
