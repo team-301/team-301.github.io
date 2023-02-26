@@ -1,4 +1,4 @@
-**6.0 Software proposal**
+# **6.0 Software proposal**
 
 For our software proposal we have our main loop which has
 initialization, interrupt enable and, the logic of our code. Since we
