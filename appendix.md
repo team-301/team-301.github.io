@@ -19,8 +19,7 @@
 ## **Meeting Schedule**
 
 Our team availability can be found through this
-[link](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit).
-Initially, we are planning to meet Fridays from 3:00 PM until 5:00 PM.
+[link](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit). Initially, we are planning to meet Fridays from 3:00 PM until 5:00 PM.
 However, our team will try to discuss and work all the main agenda
 through the class time. Additionally, we will hold zoom/Discord meetings
 on weekdays to discuss any updates and plan in-person meetings.
@@ -29,29 +28,27 @@ on weekdays to discuss any updates and plan in-person meetings.
 
 -   We are going to remind each other by the meetings through discord.
 
--   The meeting time is based on the [schedule of availabilit](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit)
-    > and discussions at least a week before.
+-   The meeting time is based on the [schedule of availabilit](https://docs.google.com/spreadsheets/u/1/d/1qsL_EHei7h-eo-5rombT-5g8ybxEDRhG_eKkYWFzCa4/edit) and discussions at least a week before.
 
--   Our preferred meeting methode is online through discord/zoom if no
-    > in-person work is required.
+-   Our preferred meeting methode is online through discord/zoom if no in-person work is required.
 
 -   Team members need to notify the team if there were any changes to
-    > their availability schedule to ensure that we are all attending
-    > the meetings on time.
+    their availability schedule to ensure that we are all attending
+     the meetings on time.
 
 ## **Team Coordination**
 
 -   We set an earlier due date which ranges between 4-24 hours before
-    > the actual due date and make sure that every team member is
-    > checked off by the time that we set it.
+     the actual due date and make sure that every team member is
+     checked off by the time that we set it.
 
 -   We will ask every team member about their knowledge and what part do
-    > they think they can do the best based on previous semesters
-    > projects or any projects that they did before.
+     they think they can do the best based on previous semesters
+     projects or any projects that they did before.
 
 -   The assignments will be reviewed and validated by each team member
-    > before submission to ensure that we have everything as it should
-    > be.
+     before submission to ensure that we have everything as it should
+     be.
 
 ## **<u>Table 13.Roles and Responsibilities</u>** 
 
