@@ -6,6 +6,15 @@ points for programming and debugging purposes. We also have our
 switching regulator circuit, temperature sensor and the ICSP plug in for
 programming the microcontroller.
 
-# <img src="media/image24.png" style="width:6.5in;height:4.79251in" />
+<figure class="image">  
 
-**<u>Fig 15. Hardware proposal</u>**
+<div style="text-align: center">  
+
+<img src="imagess/image27.png" width="50%"><br>  
+
+Figure 15 - Hardware proposal  
+
+</div>
+
+</figure>
+
