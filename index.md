@@ -16,7 +16,7 @@ In this section you will go through our team strategy to keep track of the proje
 > [1.1 Charter]
  
 > [1.2 Product Mission Statement]
->
+
 
 ## [2.0 User Needs, Benchmarking and Requirements](/user-needs)
 
