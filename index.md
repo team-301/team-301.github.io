@@ -6,13 +6,9 @@
 
 <h4 align="center">Team 301</h4> 
 
-<h4 align="center">Timothy Drafz</h4> 
-
 <h4 align="center">Salsabil Soliman</h4>
 
 <h4 align="center">Fatema Alshehhi</h4>
-
-<h4 align="center">Sivanee Naghichetty</h4>
 
 <h4 align="center">Arizona State University</h4>
 
@@ -20,7 +16,7 @@
 
 <h4 align="center">Prof. Travis Kelley</h4>
 
-<h4 align="center">1/20/2023</h4>
+<h4 align="center">02/25/2023</h4>
 <br />
 <br />
 <br />
