@@ -12,7 +12,8 @@ Solar Panel Cleaner Invention
   University
 
 ## [1.0 Who are we? What is our team organization strategy?](/team-organization)
-In this section you will go through our team strategy to keep track of the project process and the timeline. Moreover, you will get to know who the team members are and what their roles are.
+In this section you will go through our team strategy to keep track of the 
+project process and the timeline. Moreover, you will get to know who the team members are and what their roles are.
 > [1.1 Charter]
  
 > [1.2 Product Mission Statement]
@@ -58,11 +59,14 @@ The selected components of our final project were chosen based on three categori
 
 ## [6.0 Software proposal](/software-proposal)
 
-Taking a look into the software proposal will give you a full understanding on how exactly the logic that we plan to implement in our circuits.
+Taking a look into the software proposal will give you a full 
+understanding on how exactly the logic that we plan to implement in our circuits.
 
 ## [7.0 Hardware proposal](/hardware-proposal)
 
-Taking a look into the hardware proposal will give you a full understanding on how exactly the circuits and components will work together on the PCB to outcome our final project.
+Taking a look into the hardware proposal will give you a full 
+understanding on how exactly the circuits and components will work 
+together on the PCB to outcome our final project.
 
 ## [8.0 Appendix](/appendix)
 
