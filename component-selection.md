@@ -236,7 +236,7 @@ frequently used in industry and it was recommended by the instructor.
 
 <div style="text-align: center">  
 
-<img src="images2/image25.png" width="50%"><br>  
+<img src="images2/image25.png" width="30%"><br>  
 
 </div>
 
@@ -362,7 +362,7 @@ chosen option.
 
 <div style="text-align: center">  
 
-<img src="images2/image12.png" width="50%"><br>  
+<img src="images2/image12.png" width="30%"><br>  
 
 </div>
 
@@ -476,7 +476,7 @@ range of the power supply as it works from 1.8-9v.
 
 <div style="text-align: center">  
 
-<img src="images2/image2.png" width="50%"><br>  
+<img src="images2/image2.png" width="30%"><br>  
 
 </div>
 
@@ -587,7 +587,7 @@ two the better choice.
 
 <div style="text-align: center">  
 
-<img src="images19/image1.png" width="50%"><br>  
+<img src="images2/image19.png" width="30%"><br>  
 
 </div>
 
