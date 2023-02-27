@@ -18,3 +18,7 @@ Figure 15 - Hardware proposal
 
 </figure>
 
+---
+## [Bill of Matireals Link](https://docs.google.com/spreadsheets/d/1gwBahsOsEQ39IGG7Yhnm-0OQNQgcIMSc/edit#gid=243184003)
+---
+
