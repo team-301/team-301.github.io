@@ -232,6 +232,16 @@ frequently used in industry and it was recommended by the instructor.
 </tbody>
 </table>
 
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images2/image25.png" width="50%"><br>  
+
+</div>
+
+</figure>
+
 **Choice:** 1st Option.
 
 **Rationale:** I worked with that motor before and it was easy to use
@@ -348,6 +358,16 @@ chosen option.
 </tbody>
 </table>
 
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images2/image12.png" width="50%"><br>  
+
+</div>
+
+</figure>
+
 **Choice:** 3rd Option
 
 **Rationale:** We chose that option because we have previous experience
@@ -452,6 +472,15 @@ range of the power supply as it works from 1.8-9v.
 <tbody>
 </tbody>
 </table>
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images2/image2.png" width="50%"><br>  
+
+</div>
+
+</figure>
 
 **Choice:** 2nd Option.
 
@@ -553,6 +582,16 @@ two the better choice.
 <tbody>
 </tbody>
 </table>
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images19/image1.png" width="50%"><br>  
+
+</div>
+
+</figure>
 
 **Choice:** 1st Option.
 
