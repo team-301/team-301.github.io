@@ -72,7 +72,7 @@ together on the PCB to outcome our final project.
 
 ## [9.0 Appendix](/appendix)
 
-**For more information please take a look below.**
+**For more information please take a look at the resources below.**
 
 > [Communication Channels]
 >
