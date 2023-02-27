@@ -608,3 +608,9 @@ option was the best choice for the purposes of our build
 ---
 ## [Power Budget Link](https://docs.google.com/spreadsheets/d/1xDC5_bySi3eCGrE1WJuqg33BrfvGr20x/edit#gid=1556561585)
 ---
+
+
+
+Both major component selection and power budgeting are critical to the success of a
+system. Properly selecting the components and ensuring that the power supply is 
+sufficient will help to ensure that the system operates as intended and meets its performance requirements.
