@@ -523,8 +523,7 @@ about the responsibility to perform it through the semester.
 <section class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>No PIC16F887, PIC16F917, PIC18F47Q10, or dsPICs allowed<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"></li>
+<li id="fn1" role="doc-endnote"><p>No PIC16F887, PIC16F917, PIC18F47Q10, or dsPICs allowed</p></li>
 </ol>
 </section>
 
