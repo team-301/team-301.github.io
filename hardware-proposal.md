@@ -1,5 +1,5 @@
 
-# **7.0 Hardware proposal**
+# **8.0 Hardware proposal**
 
 For our hardware proposal we have our microcontroller with multiple test
 points for programming and debugging purposes. We also have our
