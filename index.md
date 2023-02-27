@@ -48,25 +48,44 @@ you will see our final chosen design and how we chose it.
 
 ## [4.0 Block Diagram](block-diagram)
 
-The block diagram is where you can take a look at how the project will be combined and
+A block diagram is a graphical representation of a system or process that uses blocks to represent components or stages of the system,
+and lines or arrows to show the connections between the blocks. It is a useful tool for visualizing complex 
+systems or processes, as it allows for a high-level overview of the components and their relationships.In this 
+section you can take a look at how the subsystems in this project will be combined and
 function together.
 
 ## [5.0 Major Component Selections and Power Budget](/component-selection)
 
-The selected components of our final project were chosen based on three categories which are, the quality, availability and price.
+Major component selection and power budgeting are important aspects of system design. Major component 
+selection involves choosing the key components that will make up the system, such as processors, sensors,
+and communication modules. This selection process involves considering factors such as performance,
+compatibility, and cost to ensure that the chosen components will work well together and meet the requirements of the system.
+
+Power budgeting involves estimating the amount of power the system will consume and ensuring 
+that the power supply can meet this demand. This involves considering the power consumption
+of each component, as well as any external factors such as temperature and voltage 
+fluctuations. It is important to balance the power requirements of the system with 
+the available power supply to ensure that the system will function properly.
+
+Both major component selection and power budgeting are critical to the success of a
+system. Properly selecting the components and ensuring that the power supply is 
+sufficient will help to ensure that the system operates as intended and meets its performance requirements.
 
 ## [6.0 Microcontroller Selection](/microcontroller-selection)
+Microcontroller selection is a critical aspect of system design, particularly in embedded systems. Microcontrollers are small, integrated circuits that contain a processor, memory, and input/output peripherals, and are often used to control various components in a system. When selecting a microcontroller, it is important to consider factors such as performance, memory capacity, and the available input/output peripherals, as well as the cost and power requirements of the system.
 
-An overview of our selected Microcontroller. You can take a look on the features and the reasons behind the final selection. 
+Performance is a key consideration in microcontroller selection, as it determines how quickly the microcontroller can execute instructions and process data. Memory capacity is also important, as it determines how much data the microcontroller can store and process. Input/output peripherals, such as analog-to-digital converters and communication modules, are also important considerations, as they determine the types of sensors and other components that the microcontroller can interface with.
+
+Cost and power requirements are also important considerations, as these can have a significant impact on the overall system design and functionality. Ultimately, the microcontroller selected should be able to meet the requirements of the system in terms of performance, memory capacity, input/output peripherals, cost, and power consumption, while also being compatible with other components and systems in the design.
 
 ## [7.0 Software proposal](/software-proposal)
 
-Taking a look into the software proposal will give you a full 
+A software proposal is a document that outlines a proposed software solution for a specific problem or need. The proposal typically includes details such as the proposed software architecture, design, implementation approach, and testing methodology.Taking a look into the software proposal will give you a full 
 understanding on how the team plan to implement the coding to get a fully functional project.
 
 ## [8.0 Hardware proposal](/hardware-proposal)
 
-Taking a look into the hardware proposal will give you a full 
+A hardware proposal, specifically a team schematic, is a document that outlines the proposed hardware solution for a specific project or system. The team schematic typically includes details as the proposed hardware architecture, design, and implementation approach. It may also include a timeline, budget, and resource allocation plan. Taking a look into the hardware proposal will give you a full 
 understanding on how exactly the circuits and components will work 
 together on the PCB to outcome our final project.
 
