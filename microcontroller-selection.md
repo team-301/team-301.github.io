@@ -21,7 +21,7 @@ take a look below to see the features of our microcontroller.
 <p>Part <strong>No.</strong></p>
 <p>PIC16F15323T-I/SLTR-ND</p>
 <p><strong>Price:</strong> 0.99$</p>
-<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16F15323T-I-SL/7203701"><u>Link</u></a></p></th>
+<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16F15323T-I-SL/7203701"><u>Datasheet</u></a></p></th>
 <th><ul>
 <li><blockquote>
 <p>High performance</p>
