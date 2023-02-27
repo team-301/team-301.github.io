@@ -15,7 +15,7 @@ take a look below to see the features of our microcontroller.
 <thead>
 <tr class="header">
 <th><blockquote>
-<p><img src="media/image1.png" style="width:1.35938in;height:1.35938in" /></p>
+<p><img src="images2/imagem.png" style="width:50%;height:50%" /></p>
 </blockquote>
 <p>PIC16F15323T-I/SL</p>
 <p>Part <strong>No.</strong></p>
