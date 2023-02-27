@@ -1,5 +1,9 @@
 # **6.0 Microcontroller Selection**
 
+Performance is a key consideration in microcontroller selection, as it determines how quickly the microcontroller can execute instructions and process data. Memory capacity is also important, as it determines how much data the microcontroller can store and process. Input/output peripherals, such as analog-to-digital converters and communication modules, are also important considerations, as they determine the types of sensors and other components that the microcontroller can interface with.
+
+Cost and power requirements are also important considerations, as these can have a significant impact on the overall system design and functionality. Ultimately, the microcontroller selected should be able to meet the requirements of the system in terms of performance, memory capacity, input/output peripherals, cost, and power consumption, while also being compatible with other components and systems in the design.
+
 Our selected microcontroller is PIC16F15323T-I/SL. We chose all of our
 project components based on three categories which are, quality,
 availability and price. PIC16F15323T-I/SL was the best choice in the
