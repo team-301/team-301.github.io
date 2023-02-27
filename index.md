@@ -90,6 +90,11 @@ together on the PCB to outcome our final project.
 >
 > [Our Team Milestones]
 
+
+---
+## [Power Budget](https://docs.google.com/spreadsheets/d/1xDC5_bySi3eCGrE1WJuqg33BrfvGr20x/edit#gid=1556561585)
+---
+
 ---
 Checkpoint 1 Presentation
 ---
@@ -98,7 +103,5 @@ Checkpoint 1 Presentation
 [**<span class="underline">Presentation youtube
 Link</span>**](https://youtu.be/ZJIEgCf_MdA)
 
----
-## [Power Budget](https://docs.google.com/spreadsheets/d/1xDC5_bySi3eCGrE1WJuqg33BrfvGr20x/edit#gid=1556561585)
----
+
 
