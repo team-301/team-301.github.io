@@ -155,8 +155,21 @@ looking for more feedback to make the final decision.
 
 # **Selected Design**
 
-As a team, we chose the third option of our concept designs. Mainly we
-focused on building an invention that help solar panels to clean itself
-and produce more energy based on it’s temperature readings. On the other
-hand, we chose the third concept due to its simplicity with its
-features.
+As a team, we chose the third option for our concept designs. Mainly we
+focused on building an invention that helps increase the efficiency of solar panels. Our idea
+was primarily designed for the solar panel to clean itself
+and produce more energy. we chose the third concept because it satisfied all of our user's needs
+as it sens temperature and controls the motors based on the reading from the sensor.
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images/image15.jpg" width="50%"><br>  
+
+Figure 12 - Third Product Concept   
+
+</div>
+
+</figure>
+
