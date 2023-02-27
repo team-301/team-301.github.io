@@ -55,18 +55,22 @@ function from i’s hardware side.
 
 The selected components of our final project were chosen based on three categories which are, the quality, availability and price.
 
-## [6.0 Software proposal](/software-proposal)
+## [6.0 Microcontroller Selection](/microcontroller-selection)
+
+Taking a look at the micro controller selection 
+
+## [7.0 Software proposal](/software-proposal)
 
 Taking a look into the software proposal will give you a full 
 understanding on how exactly the logic that we plan to implement in our circuits.
 
-## [7.0 Hardware proposal](/hardware-proposal)
+## [8.0 Hardware proposal](/hardware-proposal)
 
 Taking a look into the hardware proposal will give you a full 
 understanding on how exactly the circuits and components will work 
 together on the PCB to outcome our final project.
 
-## [8.0 Appendix](/appendix)
+## [9.0 Appendix](/appendix)
 
 **For more information please take a look below.**
 
