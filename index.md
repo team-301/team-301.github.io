@@ -51,7 +51,7 @@ you will see our final chosen design and how we chose it.
 The block diagram is where you can take a look at how the project will be combined and
 function together.
 
-## [5.0 Major Component Selections](/component-selection)
+## [5.0 Major Component Selections and Power Budget](/component-selection)
 
 The selected components of our final project were chosen based on three categories which are, the quality, availability and price.
 
