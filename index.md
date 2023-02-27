@@ -122,4 +122,4 @@ Link</span>**](https://youtu.be/ZJIEgCf_MdA)
 ---
 Checkpoint 2 Presentation
 ---
-[![Checkpoint 2 Presentation](img src="images2/front2.png" style="width:50%;height:50%" />)](/checkpoint-2-presentation)
+[![Checkpoint 2 Presentation](img src="images2/front2.png" style="width:50%;height:50%"/>)](/checkpoint-2-presentation)
