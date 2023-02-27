@@ -10,7 +10,7 @@ the microcontroller using i2c serial communication through pins RA1 and
 RA2 which are the SDA and SCL pins. The microcontroller receives data
 from the temperature sensor and uses it to control the motors. The block
 diagram of the electrical system would show the power supply at the top,
-followed by the microcontroller, motor driver, and temperature sensor.
+followed by the microcontroller, motors driver, motors, and temperature sensor.
 The connections between the components would be indicated by arrows.
 
 <figure class="image">  
