@@ -11,7 +11,7 @@
 
 ## [1.0 Who are we? What is our team organization strategy?](/team-organization)
 In this section you will go through our team strategy to keep track of the 
-project process and the timeline. Moreover, you will get to know who the team members are and what their roles are.
+project process and the timeline. Moreover, you will get to know who the team members are and what is their roles.
 > [1.1 Charter]
  
 > [1.2 Product Mission Statement]
@@ -48,8 +48,8 @@ you will see our final chosen design and how we chose it.
 
 ## [4.0 Block Diagram](block-diagram)
 
-The block diagram where you can take a look at how the project will
-function from i’s hardware side.
+The block diagram is where you can take a look at how the project will be combined and
+function together.
 
 ## [5.0 Major Component Selections](/component-selection)
 
@@ -62,7 +62,7 @@ An overview of our selected Microcontroller. You can take a look on the features
 ## [7.0 Software proposal](/software-proposal)
 
 Taking a look into the software proposal will give you a full 
-understanding on how exactly the logic that we plan to implement in our circuits.
+understanding on how the team plan to implement the coding to get a fully functional project.
 
 ## [8.0 Hardware proposal](/hardware-proposal)
 
