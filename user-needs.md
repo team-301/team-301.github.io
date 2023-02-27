@@ -828,8 +828,7 @@ Our project aims to spread the culture of solar panels and make them
 more efficient for old and new users. Our main goal is to build an
 easy-to-set-up, lightweight, and good-quality solar panel cleaner that
 reacts fast whenever it feels a certain quantity of dust. On the other
-hand, it will be featured with different sensors such as temperature,
-and humidity sensors.
+hand, it will be featured with different sensors such as temperature.
 
 **Stakeholders**
 
@@ -914,7 +913,7 @@ product SolarXCL. He noticed how the cooling system improved.
 > 1.4 The product has creative features compared to the ones in the
 > market
 > 
-> 1.5 The product will sense the dust, temperature and humidity
+> 1.5 The product will sense temperature
 > 
 > 1.6 The Product will work with battery
 > 
@@ -948,7 +947,7 @@ product SolarXCL. He noticed how the cooling system improved.
 > the solar panels and clean it off.
 > 
 > 4.2 The product will detect if it will rain or is raining based on
-> current humidity and cease functions until it clears.
+> current temperature.
 
 5.  > **Customization**
 
