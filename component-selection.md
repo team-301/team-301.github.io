@@ -476,7 +476,7 @@ range of the power supply as it works from 1.8-9v.
 
 <div style="text-align: center">  
 
-<img src="images2/image2.png" width="30%"><br>  
+<img src="images2/image2.png" width="25%"><br>  
 
 </div>
 
