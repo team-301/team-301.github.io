@@ -74,9 +74,6 @@ sufficient will help to ensure that the system operates as intended and meets it
 ## [6.0 Microcontroller Selection](/microcontroller-selection)
 Microcontroller selection is a critical aspect of system design, particularly in embedded systems. Microcontrollers are small, integrated circuits that contain a processor, memory, and input/output peripherals, and are often used to control various components in a system. When selecting a microcontroller, it is important to consider factors such as performance, memory capacity, and the available input/output peripherals, as well as the cost and power requirements of the system.
 
-Performance is a key consideration in microcontroller selection, as it determines how quickly the microcontroller can execute instructions and process data. Memory capacity is also important, as it determines how much data the microcontroller can store and process. Input/output peripherals, such as analog-to-digital converters and communication modules, are also important considerations, as they determine the types of sensors and other components that the microcontroller can interface with.
-
-Cost and power requirements are also important considerations, as these can have a significant impact on the overall system design and functionality. Ultimately, the microcontroller selected should be able to meet the requirements of the system in terms of performance, memory capacity, input/output peripherals, cost, and power consumption, while also being compatible with other components and systems in the design.
 
 ## [7.0 Software proposal](/software-proposal)
 
