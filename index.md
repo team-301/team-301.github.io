@@ -57,7 +57,7 @@ The selected components of our final project were chosen based on three categori
 
 ## [6.0 Microcontroller Selection](/microcontroller-selection)
 
-Taking a look at the micro controller selection 
+An overview of our selected Microcontroller. You can take a look on the features and the reasons behind the final selection. 
 
 ## [7.0 Software proposal](/software-proposal)
 
