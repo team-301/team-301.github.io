@@ -108,6 +108,16 @@
 </tbody>
 </table>
 
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="images2/image1.png" width="50%"><br>  
+
+</div>
+
+</figure>
+
 **Choice:** 1st Option.
 
 **Rationale:** The first solution is the perfect choice for our project;
