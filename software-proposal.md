@@ -12,7 +12,7 @@ the brush horizontally.
 
 <div style="text-align: center">  
 
-<img src="images2/image14.png" width="100%"><br>  
+<img src="images2/image-14.png" width="100%"><br>  
 
 Figure 14 - Software proposal  
 
