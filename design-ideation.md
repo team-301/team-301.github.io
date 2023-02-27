@@ -165,7 +165,7 @@ as it sens temperature and controls the motors based on the reading from the sen
 
 <div style="text-align: center">  
 
-<img src="images/selected-design.png" width="50%"><br>  
+<img src="images/selected-design.png" width="80%"><br>  
 
 Figure 13 - Selected Design  
 
