@@ -92,7 +92,7 @@ project, a team member will be assigned that duty with the expectation
 of help from other team members. They will be expected to learn enough
 about the responsibility to perform it through the semester.
 
-## **User needs list**
+## **User Needs List**
 
 1.  The product should be easy to use/ user friendly
 
