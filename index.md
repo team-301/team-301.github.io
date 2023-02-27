@@ -67,9 +67,6 @@ of each component, as well as any external factors such as temperature and volta
 fluctuations. It is important to balance the power requirements of the system with 
 the available power supply to ensure that the system will function properly.
 
-Both major component selection and power budgeting are critical to the success of a
-system. Properly selecting the components and ensuring that the power supply is 
-sufficient will help to ensure that the system operates as intended and meets its performance requirements.
 
 ## [6.0 Microcontroller Selection](/microcontroller-selection)
 Microcontroller selection is a critical aspect of system design, particularly in embedded systems. Microcontrollers are small, integrated circuits that contain a processor, memory, and input/output peripherals, and are often used to control various components in a system. When selecting a microcontroller, it is important to consider factors such as performance, memory capacity, and the available input/output peripherals, as well as the cost and power requirements of the system.
