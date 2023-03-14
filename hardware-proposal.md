@@ -18,6 +18,7 @@ Figure 15 - Hardware proposal
 
 </figure>
 
+Since we are only two members in the team we only have 2 subsystems the microcontroller and the temperature sensor. The motor driver is not connected to anything because it is just for testing and adding functionality to our project. 
 
 ---
 ## [Bill Of Materials Link](https://docs.google.com/spreadsheets/d/1gwBahsOsEQ39IGG7Yhnm-0OQNQgcIMSc/edit#gid=243184003)
