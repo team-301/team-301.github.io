@@ -17,7 +17,7 @@ The connections between the components would be indicated by arrows.
 
 <div style="text-align: center">  
 
-<img src="images2/image35.png" width="100%"><br>  
+<img src="images/updated block diagram (2).jpg" width="100%"><br>  
 
 Figure 13 - Block Diagram  
 
