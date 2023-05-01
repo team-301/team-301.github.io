@@ -120,3 +120,8 @@ Checkpoint 2 Presentation
 <a href="https://github.com/team-301/team-301.github.io/blob/main/Checkpoint-2-presentation.pdf"><img src="https://i.imgur.com/vP5uFzW.png" alt="Chechpoint 2" width="70%"></a>
 
 
+---
+Checkpoint 3 Presentation
+---
+
+<a href="https://github.com/team-301/team-301.github.io/blob/main/Checkpoint-2-presentation.pdf"><img src="https://i.imgur.com/vP5uFzW.png" alt="Chechpoint 2" width="70%"></a>
