@@ -331,12 +331,12 @@ chosen option.
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images2/image12.png" style="width:50%;height:50%" /></p>
-<p>Brush DC Motor Controller</p>
+<th><p><img src="photos/md.png" style="width:50%;height:50%" /></p>
+<p>FAN8100N/Motor driver</p>
 <p>Part <strong>No.</strong></p>
-<p>IFX9201SGAUMA1</p>
-<p><strong>Price:</strong> 4.88$/each</p>
-<p><a href="https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542"><u>Link</u></a></p></th>
+<p>FAN8100N</p>
+<p><strong>Price:</strong> 0.75$/each</p>
+<p><a href="https://www.digikey.com/en/products/detail/rochester-electronics-llc/FAN8100N/11558200"><u>Link</u></a></p></th>
 <th><ul>
 <li><blockquote>
 <p>Lowest price</p>
@@ -369,7 +369,7 @@ chosen option.
 
 <div style="text-align: center">  
 
-<img src="images2/image12.png" width="30%"><br>  
+<img src="photos/md.png" width="30%"><br>  
 
 </div>
 
@@ -612,12 +612,22 @@ option was the best choice for the purposes of our build
 #B08TW9L8VX 9V 3A\*\**
 
 
----
-## [Power Budget Link](https://docs.google.com/spreadsheets/d/1xDC5_bySi3eCGrE1WJuqg33BrfvGr20x/edit#gid=1556561585)
----
-
 
 
 Both major component selection and power budgeting are critical to the success of a
 system. Properly selecting the components and ensuring that the power supply is 
 sufficient will help to ensure that the system operates as intended and meets its performance requirements.
+
+---
+## [Power Budget Link](https://docs.google.com/spreadsheets/d/1xDC5_bySi3eCGrE1WJuqg33BrfvGr20x/edit#gid=1556561585)
+---
+
+
+The power budget provided is a breakdown of the power requirements for different components in a system that uses a 3.3V power rail. The components listed include a WiFi transceiver, a temperature sensor, a motor driver, and a microcontroller. For each component, the supply voltage range and absolute maximum current are provided, as well as the total current required for all components on the 3.3V rail. Additionally, a safety margin of 25% is included.
+
+Based on the power budget, the total current required on the 3.3V rail for all components is 1200.6mA. This means that the 3.3V regulator must be able to provide at least 1200.6mA to power all components in the system. The listed regulator has a maximum current output of 2000mA, which is more than enough to power all components in the system.
+
+However, the total remaining current available on the 3.3V rail is only 799.4mA. This means that there is a limited amount of additional power available for any new components that may be added to the system in the future. Therefore, any new components added to the system must be carefully evaluated to ensure that they do not exceed the available power budget.
+
+Overall, the power budget provides a clear overview of the power requirements for different components in a system and helps ensure that the system is designed to operate within the available power constraints.
+
