@@ -616,3 +616,25 @@ End of File
 \*/
 
 ## **MCC Configuration**
+
+</figure>
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/mcc1.png" width="100%"><br>  
+
+</div>
+
+</figure>
+
+</figure>
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/mcc2.png" width="100%"><br>  
+
+</div>
+
+</figure>
