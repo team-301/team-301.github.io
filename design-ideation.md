@@ -155,11 +155,8 @@ looking for more feedback to make the final decision.
 
 # **Selected Design**
 
-As a team, we chose the third option for our concept designs. Mainly we
-focused on building an invention that helps increase the efficiency of solar panels. Our idea
-was primarily designed for the solar panel to clean itself
-and produce more energy. we chose the third concept because it satisfied all of our user's needs
-as it sens temperature and controls the motors based on the reading from the sensor.
+In the decision-making process for selecting the team's design concept, the team evaluated all the proposed concepts and ultimately decided on the third concept due to its simplicity and potential impact. The team also considered the feasibility of each concept and how well it aligned with the project goals. Additionally, the team combined good ideas from the design ideation stage to further refine the chosen concept which is the third concept. Overall, the decision was made based on a combination of factors, including feasibility, impact, and simplicity.
+
 
 <figure class="image">  
 
