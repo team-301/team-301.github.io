@@ -965,7 +965,7 @@ product SolarXCL. He noticed how the cooling system improved.
   - > What would be the best technique for controlling the robot? Using a mobile app over the wifi. 
 
 
-> ·
+
 
 ## **Product requirement Assessment** 
 
