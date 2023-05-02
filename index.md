@@ -96,10 +96,10 @@ This section has been curated to provide you with a comprehensive overview of th
 
 ## [10.0 Lessons Learned ](/lessons-learned)
 
-## [11. Recommendations for Future Students](/recommendations)
+## [11.0 Recommendations for Future Students](/recommendations)
 
 
-## [10.0 Appendix](/appendix)
+## [12.0 Appendix](/appendix)
 
 **For more information please take a look at the resources below.**
 
