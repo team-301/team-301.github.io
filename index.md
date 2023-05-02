@@ -93,6 +93,7 @@ together on the PCB to outcome our final project.
 
 ## [9.0 System Verification](/system-verification )
 
+This section is designed to provide you with a comprehensive overview of the verification status of various electrical systems. Electrical systems are an essential part of modern society and are present in everything from homes to industrial facilities. However, ensuring the safety and reliability of these systems is crucial. Our verification table aims to provide a centralized source of information on the status of electrical systems, including their compliance with safety regulations, performance standards, and maintenance schedules. This information can be useful for property owners, electrical contractors, and anyone else involved in the design, installation, and maintenance of electrical systems. Our goal is to help ensure that these systems are safe, reliable, and functioning at their best.
 
 
 ## [10.0 Appendix](/appendix)
