@@ -29,13 +29,9 @@ Our team mission statement is to improve the clean energy generation
 industry, specifically solar energy, and make it more efficient so that
 users are able to get the most benefit from their solar energy source.
 
-When coming up with the charter and mission statement for our team we
-discussed what we wanted our goals to be first. Once we had an idea for
-some of our goals we looked at the project requirements and thought of
-what we may want our mission statement and charter to be. When
-discussing this we wanted to make sure we emphasized the user
-friendliness aspect of a product since we felt that would be one of the
-most crucial parts of any design we made. After forming the charter we
-then specified our mission statement down to solar energy efficiency.
-This was because we started to develop an idea of where we may want our
-actual design to be, and what was actually achievable in the semester.
+During the initial stages of developing our team's charter and mission statement, we first engaged in a thorough discussion regarding our overarching goals and objectives. Once we had established a clear understanding of our goals, we then turned our attention toward the project requirements, with the aim of refining our mission statement and charter.
+
+One of the primary considerations that we focused on during this process was the importance of user-friendliness, which we deemed to be a critical aspect of any product design that we would create. With this in mind, we then proceeded to formulate our charter, followed by narrowing down our mission statement to the specific area of solar energy efficiency.
+
+This focus on solar energy efficiency was a result of our efforts to develop a concrete vision for our design, with the understanding that we needed to identify a tangible objective that was achievable within the timeframe of the project. Throughout this process, we remained committed to ensuring that our mission statement and charter remained aligned with our overall goals and objectives, in order to maximize the impact of our efforts.
+
