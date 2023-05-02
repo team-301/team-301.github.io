@@ -1,14 +1,10 @@
 # **6.0 Microcontroller Selection**
 
-Performance is a key consideration in microcontroller selection, as it determines how quickly the microcontroller can execute instructions and process data. Memory capacity is also important, as it determines how much data the microcontroller can store and process. Input/output peripherals, such as analog-to-digital converters and communication modules, are also important considerations, as they determine the types of sensors and other components that the microcontroller can interface with.
-
-Cost and power requirements are also important considerations, as these can have a significant impact on the overall system design and functionality. Ultimately, the microcontroller selected should be able to meet the requirements of the system in terms of performance, memory capacity, input/output peripherals, cost, and power consumption, while also being compatible with other components and systems in the design.
-
-Our selected microcontroller is PIC16F15323T-I/SL. We chose all of our
-project components based on three categories which are, quality,
-availability and price. PIC16F15323T-I/SL was the best choice in the
-market and it met all of the requirements and the team criteria. Please
-take a look below to see the features of our microcontroller.
+> Our selected microcontroller is PIC16LF15376. We chose all of our
+> project components based on three categories which are, quality,
+> availability, and price. PIC16LF15376 was the best choice in the
+> market and it met all of the requirements and the team criteria.
+> Please take a look below to see the features of our microcontroller.
 
 <table>
 <colgroup>
@@ -18,14 +14,19 @@ take a look below to see the features of our microcontroller.
 </colgroup>
 <thead>
 <tr class="header">
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+<tr class="odd">
 <th><blockquote>
-<p><img src="images2/imagem.png" style="width:50%;height:50%" /></p>
+<p><img src="images2/mc.png" style="width:50%;height:50%" /></p>
 </blockquote>
-<p>PIC16F15323T-I/SL</p>
+<p>PIC16LF15376</p>
 <p>Part <strong>No.</strong></p>
-<p>PIC16F15323T-I/SLTR-ND</p>
-<p><strong>Price:</strong> 0.99$</p>
-<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16F15323T-I-SL/7203701"><u>Datasheet</u></a></p></th>
+<p>PIC16LF15376-I/PT</p>
+<p><strong>Price:</strong> 1.85$</p>
+<p><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16LF15376-I-PT/7164824"><u>Link</u></a></p></th>
 <th><ul>
 <li><blockquote>
 <p>High performance</p>
@@ -49,9 +50,6 @@ take a look below to see the features of our microcontroller.
 </blockquote></li>
 <li><blockquote>
 <p>Limited peripheral options</p>
-</blockquote></li>
-<li><blockquote>
-<p>Small number of pins</p>
 </blockquote></li>
 </ul></th>
 </tr>
@@ -88,21 +86,21 @@ take a look below to see the features of our microcontroller.
 <th>Two at minimum with four recommended.</th>
 <th><strong>5</strong></th>
 <th><strong>64</strong></th>
-<th><strong>14</strong></th>
+<th><strong>36</strong></th>
 </tr>
 <tr class="odd">
 <th>Built-in Analog to Digital Converter? How many?</th>
 <th>Needs 1 ADC with multiple outputs.</th>
 <th><strong>1</strong></th>
 <th><strong>1</strong></th>
-<th><strong>12</strong></th>
+<th><strong>1</strong></th>
 </tr>
 <tr class="header">
 <th>Built-in Hardware PWM? How many?</th>
 <th></th>
 <th><strong>1</strong></th>
 <th><strong>0</strong></th>
-<th><strong>4</strong></th>
+<th><strong>2</strong></th>
 </tr>
 <tr class="odd">
 <th>Built-in I2C? SPI? How many?</th>
@@ -149,21 +147,21 @@ take a look below to see the features of our microcontroller.
 <th><em>Include the entire part number (leave off any letters at the end that specify the package type)</em></th>
 <th><strong>PIC18F23K20</strong></th>
 <th><strong>PIC24EP512GP206</strong></th>
-<th><strong>PIC16F15323T-I/SL</strong></th>
+<th><strong>PIC16LF15376</strong></th>
 </tr>
 <tr class="header">
 <th>Link (URL) to product page</th>
 <th><em>Do not paste links directly into the table. Instead, <a href="http://www.microchip.com/"><u>link them like this</u></a>.</em></th>
 <th><a href="https://www.microchip.com/en-us/product/PIC18F23K20"><strong><u>Product</u></strong></a></th>
 <th><a href="https://www.microchip.com/en-us/product/PIC24EP512GP206"><strong><u>Product</u></strong></a></th>
-<th><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16F15323T-I-SL/7203701"><strong><u>Product</u></strong></a></th>
+<th><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16LF15376-I-PT/7164824"><strong><u>Product</u></strong></a></th>
 </tr>
 <tr class="odd">
 <th>Links (URL) to Data Sheets</th>
 <th></th>
 <th><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/40001303H.pdf"><strong><u>Data</u></strong></a></th>
 <th><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU16/ProductDocuments/DataSheets/dsPIC33EPXXXGP50X-dsPIC33EPXXXMC20X-50X-and-PIC24EPXXXGP-MC20X-Family-Data-Sheet-DS70000657J.pdf"><strong><u>Data</u></strong></a></th>
-<th><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16_L_F15313_23_Data_Sheet_40001897C.pdf"><strong><u>Data</u></strong></a></th>
+<th><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC16%28L%29F15356-75-76-85-86-Data-Sheet-40001866.pdf"><strong><u>Data</u></strong></a></th>
 </tr>
 <tr class="header">
 <th>Links (URL) to Application Notes</th>
@@ -179,7 +177,7 @@ take a look below to see the features of our microcontroller.
 <th></th>
 <th><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/CodeExamples/PIC18_SPI_Examples.zip"><strong><u>Code</u></strong></a></th>
 <th><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/CodeExamples/ce400_adc_iir_filter.zip"><strong><u>Code</u></strong></a></th>
-<th><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16_L_F15313_23_Data_Sheet_40001897C.pdf"><strong><u>Code Page 166</u></strong></a></th>
+<th><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC16%28L%29F15356-75-76-85-86-Data-Sheet-40001866.pdf"><strong><u>Code Page 245</u></strong></a></th>
 </tr>
 <tr class="header">
 <th>Links (URL) to External Resources</th>
@@ -193,7 +191,7 @@ take a look below to see the features of our microcontroller.
 <th><em>Find in the Microchip online store, or Digikey</em></th>
 <th><strong>$2.15</strong></th>
 <th><strong>$6.06</strong></th>
-<th><strong>$0.99</strong></th>
+<th><strong>$1.85</strong></th>
 </tr>
 <tr class="header">
 <th>Supply Voltage Range</th>
@@ -226,9 +224,9 @@ take a look below to see the features of our microcontroller.
 <tr class="header">
 <th>Available IC Packages / Footprints</th>
 <th><em>Find in the microcontroller datasheet. Choose a microcontroller with both surface mount and DIP/through-hole packages available. See Most Common Mistakes below for requirements to improve manufacturing reliability.</em></th>
-<th><strong>Footprint creation data given for SOIC, DIP, and other packages<a href="https://www.microchip.com/en-us/support/package-drawings"><u>Website</u></a></strong></th>
+<th><strong>Footprint creation data given for SOIC, DIP, and other packags<a href="https://www.microchip.com/en-us/support/package-drawings"><u>Website</u></a></strong></th>
 <th><strong>MA330030</strong></th>
-<th><a href="https://www.digikey.com/en/products/detail/microchip-technology/PIC16F15323T-I-SL/5851305"><strong><u>Yes</u></strong></a></th>
+<th><strong>Yes</strong></th>
 </tr>
 <tr class="odd">
 <th>Supports External Interrupts?</th>
@@ -275,7 +273,8 @@ take a look below to see the features of our microcontroller.
 <section class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>No PIC16F887, PIC16F917, PIC18F47Q10, or dsPICs allowed</p></li>
+<li id="fn1" role="doc-endnote"><p>No PIC16F887, PIC16F917, PIC18F47Q10, or dsPICs allowed<a href="#fnref1" class="footnote-back" role="doc-backlink"></a></p></li>
+
 </ol>
 </section>
 
@@ -300,7 +299,7 @@ take a look below to see the features of our microcontroller.
 <p><strong>2) Have the most number of pins</strong></p></th>
 <th><p><strong>1)High performance</strong></p>
 <p><strong>2)Low power consumption</strong></p>
-<p><strong>3)Low cost</strong></p></th>
+<p><strong>3)Affordable</strong></p></th>
 </tr>
 <tr class="header">
 <th><strong>Overall Cons</strong></th>
@@ -324,7 +323,8 @@ take a look below to see the features of our microcontroller.
 </tbody>
 </table>
 
-**6. Final Microcontroller Choice**: Our final choice is PIC16F18875-I/P
+**6. Final Microcontroller Choice**: Our final choice is
+**PIC16LF15376**
 
 **Rationale**: It has all the requirements that we need for our final
-project and it's the most affordable.
+project and it has enough URAT and memory.
