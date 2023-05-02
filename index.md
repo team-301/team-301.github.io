@@ -76,7 +76,7 @@ fluctuations. It is important to balance the power requirements of the system wi
 the available power supply to ensure that the system will function properly.
 
 
-## [6.0 Microcontroller Selection](/mc-selection)
+## [6.0 Microcontroller Selection](/micro-selection)
 Microcontroller selection is a critical aspect of system design, particularly in embedded systems. Microcontrollers are small, integrated circuits that contain a processor, memory, and input/output peripherals, and are often used to control various components in a system. When selecting a microcontroller, it is important to consider factors such as performance, memory capacity, and the available input/output peripherals, as well as the cost and power requirements of the system.
 
 
