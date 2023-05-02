@@ -100,6 +100,7 @@ Here you can take a look on summarized lessons that were learned by the team dur
 
 ## [11.0 Recommendations for Future Students](/recommendations)
 
+Here you can read through recommendations for future students who will be taking this course. They cover important areas that students can focus on to best prepare themselves for success in the class. The recommendations include having a strong programming foundation, familiarity with electronics and microcontrollers, being comfortable working in a team environment, having strong time management and organization skills, and prior knowledge of project management methodologies.
 
 ## [12.0 Appendix](/appendix)
 
