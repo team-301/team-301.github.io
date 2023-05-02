@@ -170,3 +170,12 @@ Figure 13 - Selected Design
 
 </figure>
 
+**Design Ideation Assessment**
+
+Overall, the team now has a clear idea of what the final project will look and function like. The step of design ideation made all of us on the same page while we were brainstorming and designing. Finally, we are looking for more feedback to make the final decision.
+
+**4.4 Selected Design**
+
+In the decision-making process for selecting the team's design concept, the team evaluated all the proposed concepts and ultimately decided on the third concept due to its simplicity and potential impact. The team also considered the feasibility of each concept and how well it aligned with the project goals. Additionally, the team combined good ideas from the design ideation stage to further refine the chosen concept which is the third concept. Overall, the decision was made based on a combination of factors, including feasibility, impact, and simplicity.
+
+
