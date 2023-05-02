@@ -1,18 +1,12 @@
 # **2.0 User Needs, Benchmarking and Requirements**
 
-Starting our project by benchmarking all the liked products from the
-markets that have specific features. As a team we were looking for
-existing products that sense the environment and take action according
-to the data gathered. Moreover, our main process to help us find these
-products was benchmarking. After every team member finished their
-benchmarking we started looking for the positive and negative reviews in
-order to take a look at the challenges that are already in the market.
-Our goal is to solve one of the issues that will help the environment
-positively, not only that take data from it. Based on that we gathered
-60 user needs and as a team we added 40 more in a brainstorming session.
-After that, the user needs were categorized into two main groups which
-are efficiency and user interactions. Next we ranked them from one to 3
-which one is the most important need. Below you will go over our steps.
+To initiate our project, we began by performing a comprehensive benchmarking analysis of existing products available in the market with specific features. As a team, we were focused on identifying products that could sense the environment and take appropriate action based on the data collected. Our primary approach to conducting this search was through a rigorous benchmarking process.
+
+Once each team member had completed their benchmarking analysis, we began to explore the positive and negative reviews of the identified products to better understand the challenges and opportunities that existed in the market. Our overarching objective was to identify an issue that we could help resolve in a positive way that would benefit the environment, rather than simply collecting data from it.
+
+As a result of our research, we were able to identify 60 user needs that were further augmented with 40 additional requirements generated during a team brainstorming session. These needs were then categorized into two primary groups - efficiency and user interactions - and subsequently ranked based on their level of importance, with a scale of one to three for each.
+
+Overall, our research process was extensive and thorough, and our objective was to identify a key issue that we could resolve in an innovative and effective manner, ultimately making a positive impact on the environment.
 
 ## 2.1 Voice Of Customers 
 
