@@ -29,6 +29,81 @@ Figure 15 - Hardware proposal
 
 </figure>
 
+
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/topcd.png" width="100%"><br>  
+
+Fig 16. PCB top view in cadence
+
+</div>
+
+</figure>
+
+
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/bottomcd.png" width="100%"><br>  
+
+Figure 17 - PCB bottom view in cadence  
+
+</div>
+
+</figure>
+
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/jlctop.PNG" width="100%"><br>  
+
+Fig 18. PCB top view in gerber viewer
+</div>
+
+</figure>
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/jlcbottom.PNG" width="100%"><br>  
+
+Fig 19. PCB bottom view in gerber viewer
+
+</div>
+
+</figure>
+
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/final-top.jpg" width="100%"><br>  
+
+Figure 20 - PCB top view  
+
+</div>
+
+</figure>
+<figure class="image">  
+
+<div style="text-align: center">  
+
+<img src="photos/finalbottom.jpg" width="100%"><br>  
+
+Figure 21 - PCB bottom view
+
+</div>
+
+</figure>
+
 Since we are only two members in the team we only have 2 subsystems the microcontroller and the temperature sensor. The motor driver is not connected to anything because it is just for testing and adding functionality to our project. 
 
 ---
