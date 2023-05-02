@@ -90,9 +90,13 @@ A hardware proposal, specifically a team schematic, is a document that outlines 
 understanding on how exactly the circuits and components will work 
 together on the PCB to outcome our final project.
 
-## [9.0 System Verification](/system-verification )
+## [9.0 System Verification](/system-verification)
 
 This section has been curated to provide you with a comprehensive overview of the verification status of the electrical systems that are incorporated in our designs. Here, you will find detailed information on the connection of different systems and their corresponding verification status as assessed by our expert teaching team. Our team has diligently evaluated each system for compliance with relevant regulations, performance standards, and maintenance requirements. We understand that ensuring the safety and reliability of electrical systems is of paramount importance, and our aim is to provide a transparent and reliable source of information that can assist property owners, contractors, and other stakeholders in their decision-making process. Browse through this section to gain insight into the verification status of our electrical systems and make informed decisions accordingly.
+
+## [10.0 Lessons Learned ](/lessons-learned)
+
+## [11. Recommendations for Future Students](/recommendations)
 
 
 ## [10.0 Appendix](/appendix)
