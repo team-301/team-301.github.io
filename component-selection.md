@@ -1,5 +1,12 @@
 # **5.0 Major Component Selections**
 
+Our team chose these components based on several factors such as the component's quality, availability, and price. We also took into account suggestions made by the teaching team and evaluated the evolution of our project. These components were chosen to meet our product requirements such as sensing temperature and controlling the motors to clean the solar panels.
+
+In terms of the power budget, our team updated it to reflect our current design. We estimated the power consumption of each component and added them together to determine the total power needed. With this, we were able to select a suitable power supply that meets our power requirements.
+
+Based on our power budget, we concluded that we needed a 9V DC input from an AC-DC wall power supply that is regulated to 3.3V using the switching regulator IC REG BUCK 3.3V 2A. This regulated output powers the microcontroller, temperature sensor, and motor driver.
+
+
 -   Temperature Sensor
 
 <table>
