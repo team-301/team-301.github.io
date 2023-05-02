@@ -787,13 +787,10 @@ Figure 7 - Grouped user needs
 
 
 ## **User Needs and Benchmarking Assessment**
+Upon completion of our exhaustive user needs and benchmarking process, we have progressed to the critical stage of defining our product requirements. A key aspect of this process involved detailed analysis and understanding of the unique features and functions of each product that we benchmarked.
+Drawing on the insights and outcomes gleaned from our user needs assessment, we were then able to identify the primary requirements that would be essential in the development of our own product. As a team, we have continued to refine our understanding of the challenges and opportunities that lie ahead, with the goal of selecting the most viable and impactful challenge to solve.
+Through this iterative and data-driven approach, we have gained greater clarity and focus on the critical steps that will enable us to deliver a product that not only meets the needs of our target users but also makes a meaningful contribution to the clean energy generation industry.
 
-At the end of our user needs and benchmarking process we are moving to
-the product requirements section. It was important to understand the
-concepts on every product that we benchmarked. So based on what our
-outcome in the user needs is determining the main requirements of our
-product. Overall the steps are becoming more clear for the team to
-choose the main challenge we are going to solve.
 
 ## **2.2 Product Requirements**
 
@@ -816,13 +813,13 @@ are solar panels and compare the efficiency before and after the
 cleaning. Moreover, it aims to support and increasingly affect solar
 panel users and new customers.
 
+**Product Requirements**
+
+In the product requirement we converted the most ranked needs into requirements for our project. 
+
 **Objectives**
 
-Our project aims to spread the culture of solar panels and make them
-more efficient for old and new users. Our main goal is to build an
-easy-to-set-up, lightweight, and good-quality solar panel cleaner that
-reacts fast whenever it feels a certain quantity of dust. On the other
-hand, it will be featured with different sensors such as temperature.
+Our project aims to spread the culture of solar panels and make them more efficient for old and new users. Our main goal is to build an easy-to-set-up, lightweight, and good-quality solar panel cleaner that reacts when the temperature is less than 25C. Our product will be featured with a temperature sensor and motor driver to react fast and clean the panels at night. 
 
 **Stakeholders**
 
