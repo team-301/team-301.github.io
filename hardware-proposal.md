@@ -16,6 +16,7 @@ In terms of the schematic above, we could improve the design by including additi
 In summary, there are several areas in which our hardware design could be improved in "Version 2.0" of the project. These improvements would enable us to implement additional features, increase the efficiency and reliability of the system, and make it more user-friendly for our product. 
  
 
+
 <figure class="image">  
 
 <div style="text-align: center">  
