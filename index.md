@@ -140,4 +140,4 @@ Checkpoint 2 Presentation
 Checkpoint 3 Poster
 ---
 
-
+<a href="https://github.com/team-301/team-301.github.io/blob/main/PosterTemplate_s23_horizontal_v3.pdf"><img src="https://imgur.com/40VbDCR" alt="Chechpoint 2" width="70%"></a>
