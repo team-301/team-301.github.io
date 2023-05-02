@@ -617,7 +617,7 @@ End of File
 
 ## **MCC Configuration**
 
-</figure>
+
 <figure class="image">  
 
 <div style="text-align: center">  
@@ -628,7 +628,7 @@ End of File
 
 </figure>
 
-</figure>
+
 <figure class="image">  
 
 <div style="text-align: center">  
