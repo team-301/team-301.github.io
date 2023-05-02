@@ -1,4 +1,4 @@
-# **7.0 Software Implementation **
+# **7.0 Software Implementation**
 
 The software diagram provides a clear representation of how our software will function in order to meet the user needs and product requirements. The main loop of the software is responsible for the initialization, interrupt enable, and the logic of the code. The temperature sensor is used to measure the temperature and if it reaches 25°C, the motors are activated to start the cleaning process. Motor 1 is used to brush vertically to clean the solar panel. This functionality satisfies the user needs by providing a self-cleaning mechanism that can keep the solar panels clean and improve their efficiency. Additionally, the software meets the product requirements by automating the cleaning process and eliminating the need for manual cleaning.
 
