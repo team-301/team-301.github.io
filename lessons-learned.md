@@ -1,4 +1,4 @@
-# **9. Lessons Learned **
+# **9. Lessons Learned**
 1. Effective communication is key to a successful project. Regular team meetings, clear communication of individual responsibilities, and transparency in decision making helped us stay on track and avoid misunderstandings.
 
 2. Proper planning and organization is critical to the success of a project. Establishing a timeline, setting achievable goals, and breaking down tasks into smaller steps made the project more manageable and achievable.
