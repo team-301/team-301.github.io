@@ -20,7 +20,7 @@
 </tr>
 <tr class="odd">
 <th><blockquote>
-<p><img src="media/image1.png" style="width:1.35938in;height:1.35938in" /></p>
+<p><img src="images2/imagem.png" style="width:50%;height:50%" /></p>
 </blockquote>
 <p>PIC16LF15376</p>
 <p>Part <strong>No.</strong></p>
