@@ -96,8 +96,6 @@ This section has been curated to provide you with a comprehensive overview of th
 
 ## [10.0 Lessons Learned ](/lessons-learned)
 
-These points summarize the key lessons that were learned by the team during the project. The team learned that effective communication, proper planning and organization, flexibility and adaptability, thorough research and prototyping, attention to detail, collaboration and teamwork, failure as a natural part of the learning process, testing and debugging, documentation, and continuous learning and improvement are all crucial factors that contribute to the success of a project. By reflecting on these lessons, future students can better prepare themselves for the challenges that may arise during the course and be more successful in their own projects.
-
 ## [11.0 Recommendations for Future Students](/recommendations)
 
 
@@ -135,7 +133,7 @@ Link</span>**](https://youtu.be/ZJIEgCf_MdA)
 Checkpoint 2 Presentation
 ---
 
-<a href="https://github.com/team-301/team-301.github.io/blob/main/Checkpoint-2-presentation.pdf"><img src="https://i.imgur.com/vP5uFzW.png" alt="Chechpoint 2" width="70%"></a>
+<a href="https://github.com/team-301/team-301.github.io/blob/main/Checkpoint-2-presentation.pdf"><img src="https://i.imgur.com/40VbDCR.png" alt="Chechpoint 2" width="70%"></a>
 
 
 ---
