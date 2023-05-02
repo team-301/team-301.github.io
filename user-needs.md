@@ -797,21 +797,6 @@ Through this iterative and data-driven approach, we have gained greater clarity 
 In the product requirement we converted the most ranked needs into
 requirements to our project.
 
-**Introduction**
-
-Today renewable energy is playing a huge role in saving the planet and
-also acknowledging people about nature. In this project, our team is
-going to build a functional robot to sense dust, temperature, and
-humidity, and take action to clean any solar panel or tool that needs
-regular cleaning for efficiency. Most of us are not aware of how solar
-panels play a huge role in reducing the footprint pollution around the
-world. As a team we decided to focus and solve a challenge that will
-increasingly affect the usage of solar panels.
-
-The project mainly aims to sense and collect data based on how efficient
-are solar panels and compare the efficiency before and after the
-cleaning. Moreover, it aims to support and increasingly affect solar
-panel users and new customers.
 
 **Product Requirements**
 
@@ -966,15 +951,19 @@ product SolarXCL. He noticed how the cooling system improved.
 
 **Open Questions**
 
-  - > How can we make the product more cost effective?
+  - > Q: How can we make the product more cost-effective? By optimizing the cost and quality of each component used.
 
-  - > How can we make the robot more energy efficient?
+  - > How can we make the robot more energy efficient? By using the solar panel as its power source and reducing power usage when it is not used.
 
-  - > How can the robot be more environmentally friendly?
 
-  - > How can we give the user better user interaction with the robot?
+  - > How can the robot be more environmentally friendly? By using recyclable plastic/materials. 
 
-  - > What would be the best technique for controlling the robot?
+
+  - > How can we give the user better user interaction with the robot? By giving the user more feedback and allowing the user to adjust all the settings. 
+
+
+  - > What would be the best technique for controlling the robot? Using a mobile app over the wifi. 
+
 
 > ·
 
