@@ -91,7 +91,11 @@ A hardware proposal, specifically a team schematic, is a document that outlines 
 understanding on how exactly the circuits and components will work 
 together on the PCB to outcome our final project.
 
-## [9.0 Appendix](/appendix)
+## [9.0 System Verification l](/system-verification )
+
+
+
+## [10.0 Appendix](/appendix)
 
 **For more information please take a look at the resources below.**
 
