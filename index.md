@@ -1,5 +1,5 @@
 
-<h1> Solar Panels Cleaner Invention</h1>
+<h1> Self Cleaning Solar Panels</h1>
 
 <h4> EGR 314 Checkpoint 3 Team 301: Salsabil Soliman, Fatema Alshehhi</h4> 
 
