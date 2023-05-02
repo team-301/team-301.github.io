@@ -79,12 +79,12 @@ the available power supply to ensure that the system will function properly.
 Microcontroller selection is a critical aspect of system design, particularly in embedded systems. Microcontrollers are small, integrated circuits that contain a processor, memory, and input/output peripherals, and are often used to control various components in a system. When selecting a microcontroller, it is important to consider factors such as performance, memory capacity, and the available input/output peripherals, as well as the cost and power requirements of the system.
 
 
-## [7.0 Software proposal](/software-proposal)
+## [7.0 Software Implementation](/software-proposal)
 
 A software proposal is a document that outlines a proposed software solution for a specific problem or need. The proposal typically includes details such as the proposed software architecture, design, implementation approach, and testing methodology.Taking a look into the software proposal will give you a full 
 understanding on how the team plan to implement the coding to get a fully functional project.
 
-## [8.0 Hardware proposal](/hardware-proposal)
+## [8.0 Hardware Implementation](/hardware-proposal)
 
 A hardware proposal, specifically a team schematic, is a document that outlines the proposed hardware solution for a specific project or system. The team schematic typically includes details as the proposed hardware architecture, design, and implementation approach. It may also include a timeline, budget, and resource allocation plan. Taking a look into the hardware proposal will give you a full 
 understanding on how exactly the circuits and components will work 
