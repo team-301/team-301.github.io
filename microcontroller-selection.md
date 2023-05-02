@@ -323,6 +323,7 @@
 </tbody>
 </table>
 
+
 **6. Final Microcontroller Choice**: Our final choice is
 **PIC16LF15376**
 
